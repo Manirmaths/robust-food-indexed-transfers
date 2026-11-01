@@ -21,8 +21,13 @@ A fixed transfer budget is allocated across Nigeria's 36 states and FCT so that 
 | `experiments/e3c_frontier.py` | guarantee-constrained water-filling rule (Proposition 7) |
 | `experiments/e5_monitoring.py` | greedy monitoring design with delays 0, 1, 3; accuracy-focused rival; exhaustive check |
 | `experiments/e8_live.py` | live application Sep 2023 to May 2026 with horizon-calibrated bands |
+| `experiments/e9_robustness.py` | block-bootstrap intervals, sensitivity to alpha, gamma and windows, run with published zonal averages |
+| `experiments/e9b_monitoring_ci.py` | bootstrap intervals for the monitoring curve |
+| `experiments/e10_computation.py` | HiGHS LP versus Dinkelbach timings and accuracy |
+| `experiments/make_maps.py` | state maps and state-by-month heatmap |
 | `experiments/make_tables_figures.py` | summary tables and figures |
 | `data/derived/` | cleaned state panel (genuine state data only, to Aug 2023), published national/zonal averages and state extremes, basket weights, recipients |
+| `data/geo/` | state boundaries from geoBoundaries (gbOpen NGA ADM1, CC BY 4.0; Runfola et al., 2020) |
 | `results/` | tables (CSV) and figures |
 | `paper/` | LaTeX manuscript |
 
@@ -32,7 +37,9 @@ A fixed transfer budget is allocated across Nigeria's 36 states and FCT so that 
 pip install -r requirements.txt
 python -m pytest -q tests
 cd experiments
-python e3b_need_space.py && python e3c_frontier.py && python e5_monitoring.py && python e8_live.py && python make_tables_figures.py
+python e3b_need_space.py && python e3c_frontier.py && python e5_monitoring.py && python e8_live.py
+python e9_robustness.py && python e9b_monitoring_ci.py && python e10_computation.py
+python make_tables_figures.py && python make_maps.py
 ```
 
 ## Data notes

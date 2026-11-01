@@ -1,0 +1,5 @@
+Robust allocation of cash transfers when local food prices are only partly known
+Closed-form allocation: pay each region its largest possible need share
+Conformal calibration gives the worst-case guarantee a stated coverage
+Monitoring a few states promptly raises the guarantee more than many states late
+Nigeria: flat transfers delivered 78% of attainable protection over 2021-2023
