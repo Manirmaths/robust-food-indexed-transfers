@@ -44,4 +44,4 @@ python e3b_need_space.py && python e3c_frontier.py && python e5_monitoring.py &&
 
 - Jan 2021 to Aug 2023: flat transfer realised 0.784 of attainable protection, zonal indexation 0.689, plug-in 0.922, guarantee-constrained rule (kappa = 0.9) 0.910 with certified worst case 0.642 (flat 0.403). Certificates held in every month; coverage 87% at an 80% target.
 - Monitoring: guarantee 0.721 with no monitored states, 0.792 with five, 0.837 with ten; with a one-month delay the gain mostly disappears.
-- Sep 2023 to May 2026: guarantee falls from 0.88 to 0.67; flat rule certificate from 0.73 to 0.35.
+- Sep 2023 to May 2026: guarantee falls from 0.88 to 0.67; flat rule certificate from 0.70 to 0.39.

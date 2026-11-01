@@ -79,12 +79,21 @@ def main():
     pd.DataFrame([dict(h=h, state=st, half_width=float(qh[h][1][i] * qh[h][2])) for h in qh for i, st in enumerate(P.states)]).to_csv(os.path.join(TAB, 'e8_band_halfwidth.csv'), index=False)
     # ---- live months ----
     z = pd.read_csv(os.path.join(DATA, "food_prices_national_zonal_2017_2026.csv"), parse_dates=["date"])
-    z = z[(z.geo_level == "zone") & (z.date >= "2023-09-01")]
+    z = z[(z.geo_level == "zone") & (z.date >= "2023-08-01")]
     zp = z.pivot_table(index="date", columns=["geo", "item_harmonized"], values="value")
     last = len(dates) - 1                                   # August 2023
     m = np.median(X[last + 1 - WIN:last + 1], 0)
     rows, shares = [], []
-    for t in zp.index:
+    # growth base: published zonal averages for August 2023 (published values are not always the simple
+    # mean of state prices), with the state-mean value where an item is missing
+    Zbase = Z[last].copy()
+    if os.environ.get("E8_BASE", "published") == "published":
+        t0 = dates[last]
+        for j, it in enumerate(P.items):
+            for i, st in enumerate(P.states):
+                key = (P.zone_of[st], it)
+                if key in zp.columns and not np.isnan(zp.loc[t0, key]): Zbase[i * J + j] = zp.loc[t0, key]
+    for t in zp.index[zp.index > dates[last]]:
         h = (t.year - dates[last].year) * 12 + t.month - dates[last].month
         hh = min(h, hmax)
         c, s, q, n = qh[hh]
@@ -95,7 +104,7 @@ def main():
             if ok:
                 for i, st in enumerate(P.states):
                     Zfull[i * J + j] = zp.loc[t, (P.zone_of[st], it)]
-        Dh = predict(P, Zfull, Z[last], prices[last], m, avail)
+        Dh = predict(P, Zfull, Zbase, prices[last], m, avail)
         ctr = Dh * np.exp(c); L, U = ctr * np.exp(-q * s), ctr * np.exp(q * s)
         pim = need_box_pimax(P.N, L, U); G = 1 / (P.N @ pim)
         T09 = waterfill(P.N, 0.9 * G * pim, ctr)
