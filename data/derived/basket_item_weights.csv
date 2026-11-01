@@ -1,0 +1,883 @@
+population,scope,group,item,weight
+all,National,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.08455624945614668
+all,National,Baked food,Bread sliced 500g,0.03155278912714288
+all,National,Baked food,Bread unsliced 500g,0.03155278912714288
+all,National,Starchy foods,Yam tuber,0.023500757313899456
+all,National,Starchy foods,"Gari white,sold loose",0.023500757313899456
+all,National,Starchy foods,"Gari yellow,sold loose",0.023500757313899456
+all,National,Starchy foods,Irish potato,0.023500757313899456
+all,National,Starchy foods,Sweet potato,0.023500757313899456
+all,National,Starchy foods,Plantain(ripe),0.023500757313899456
+all,National,Starchy foods,Plantain(unripe),0.023500757313899456
+all,National,Pulses,"Beans brown,sold loose",0.03936314020547693
+all,National,Pulses,Beans:white black eye. sold loose,0.03936314020547693
+all,National,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02167628575299591
+all,National,Oils,"Palm oil: 1 bottle,specify bottle",0.02167628575299591
+all,National,Oils,"Vegetable oil:1 bottle,specify bottle",0.02167628575299591
+all,National,Vegetables,Tomato,0.057737049255702444
+all,National,Vegetables,Onion bulb,0.057737049255702444
+all,National,Poultry and eggs,Frozen chicken,0.014358783153159431
+all,National,Poultry and eggs,Chicken Feet,0.014358783153159431
+all,National,Poultry and eggs,Chicken Wings,0.014358783153159431
+all,National,Poultry and eggs,Agric eggs medium size,0.014358783153159431
+all,National,Meat,Beef Bone in,0.038979622132523394
+all,National,Meat,"Beef,boneless",0.038979622132523394
+all,National,Fish,Catfish (obokun) fresh,0.008687543231421513
+all,National,Fish,Catfish :dried,0.008687543231421513
+all,National,Fish,Catfish Smoked,0.008687543231421513
+all,National,Fish,Dried Fish Sardine,0.008687543231421513
+all,National,Fish,Iced Sardine,0.008687543231421513
+all,National,Fish,Mackerel : frozen,0.008687543231421513
+all,National,Fish,Mudfish (aro) fresh,0.008687543231421513
+all,National,Fish,Mudfish : dried,0.008687543231421513
+all,National,Fish,Tilapia fish (epiya) fresh,0.008687543231421513
+all,National,Fish,Titus:frozen,0.008687543231421513
+all,National,Dairy,Evaporated tinned milk carnation 170g,0.015825036759969154
+all,National,Dairy,"Evaporated tinned milk(peak), 170g",0.015825036759969154
+all,National,"Rice, local",Rice local sold loose,0.025100037741717138
+all,National,"Rice, local",Rice agric sold loose,0.025100037741717138
+all,National,"Rice, local",Broken Rice (Ofada),0.025100037741717138
+all,National,Maize,Maize grain white sold loose,0.022286559182436227
+all,National,Maize,Maize grain yellow sold loose,0.022286559182436227
+all,National,"Rice, imported","Rice,imported high quality sold loose",0.02740526030453155
+all,National,"Rice, imported",Rice Medium Grained,0.02740526030453155
+all,North Central,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.10162851876899075
+all,North Central,Baked food,Bread sliced 500g,0.024592503627017245
+all,North Central,Baked food,Bread unsliced 500g,0.024592503627017245
+all,North Central,Starchy foods,Yam tuber,0.030430262487610438
+all,North Central,Starchy foods,"Gari white,sold loose",0.030430262487610438
+all,North Central,Starchy foods,"Gari yellow,sold loose",0.030430262487610438
+all,North Central,Starchy foods,Irish potato,0.030430262487610438
+all,North Central,Starchy foods,Sweet potato,0.030430262487610438
+all,North Central,Starchy foods,Plantain(ripe),0.030430262487610438
+all,North Central,Starchy foods,Plantain(unripe),0.030430262487610438
+all,North Central,Pulses,"Beans brown,sold loose",0.03986919200464836
+all,North Central,Pulses,Beans:white black eye. sold loose,0.03986919200464836
+all,North Central,Oils,"Groundnut oil: 1 bottle, specify bottle",0.020901908696963057
+all,North Central,Oils,"Palm oil: 1 bottle,specify bottle",0.020901908696963057
+all,North Central,Oils,"Vegetable oil:1 bottle,specify bottle",0.020901908696963057
+all,North Central,Vegetables,Tomato,0.05493062598598613
+all,North Central,Vegetables,Onion bulb,0.05493062598598613
+all,North Central,Poultry and eggs,Frozen chicken,0.0160756317486117
+all,North Central,Poultry and eggs,Chicken Feet,0.0160756317486117
+all,North Central,Poultry and eggs,Chicken Wings,0.0160756317486117
+all,North Central,Poultry and eggs,Agric eggs medium size,0.0160756317486117
+all,North Central,Meat,Beef Bone in,0.035082278082557206
+all,North Central,Meat,"Beef,boneless",0.035082278082557206
+all,North Central,Fish,Catfish (obokun) fresh,0.0053031496917987095
+all,North Central,Fish,Catfish :dried,0.0053031496917987095
+all,North Central,Fish,Catfish Smoked,0.0053031496917987095
+all,North Central,Fish,Dried Fish Sardine,0.0053031496917987095
+all,North Central,Fish,Iced Sardine,0.0053031496917987095
+all,North Central,Fish,Mackerel : frozen,0.0053031496917987095
+all,North Central,Fish,Mudfish (aro) fresh,0.0053031496917987095
+all,North Central,Fish,Mudfish : dried,0.0053031496917987095
+all,North Central,Fish,Tilapia fish (epiya) fresh,0.0053031496917987095
+all,North Central,Fish,Titus:frozen,0.0053031496917987095
+all,North Central,Dairy,Evaporated tinned milk carnation 170g,0.011128210776098805
+all,North Central,Dairy,"Evaporated tinned milk(peak), 170g",0.011128210776098805
+all,North Central,"Rice, local",Rice local sold loose,0.03212834881152579
+all,North Central,"Rice, local",Rice agric sold loose,0.03212834881152579
+all,North Central,"Rice, local",Broken Rice (Ofada),0.03212834881152579
+all,North Central,Maize,Maize grain white sold loose,0.02771328520367088
+all,North Central,Maize,Maize grain yellow sold loose,0.02771328520367088
+all,North Central,"Rice, imported","Rice,imported high quality sold loose",0.011151328009939223
+all,North Central,"Rice, imported",Rice Medium Grained,0.011151328009939223
+all,North East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.1433396829602847
+all,North East,Baked food,Bread sliced 500g,0.024258504109254536
+all,North East,Baked food,Bread unsliced 500g,0.024258504109254536
+all,North East,Starchy foods,Yam tuber,0.009784103801970938
+all,North East,Starchy foods,"Gari white,sold loose",0.009784103801970938
+all,North East,Starchy foods,"Gari yellow,sold loose",0.009784103801970938
+all,North East,Starchy foods,Irish potato,0.009784103801970938
+all,North East,Starchy foods,Sweet potato,0.009784103801970938
+all,North East,Starchy foods,Plantain(ripe),0.009784103801970938
+all,North East,Starchy foods,Plantain(unripe),0.009784103801970938
+all,North East,Pulses,"Beans brown,sold loose",0.04919541446802969
+all,North East,Pulses,Beans:white black eye. sold loose,0.04919541446802969
+all,North East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.026438002511588548
+all,North East,Oils,"Palm oil: 1 bottle,specify bottle",0.026438002511588548
+all,North East,Oils,"Vegetable oil:1 bottle,specify bottle",0.026438002511588548
+all,North East,Vegetables,Tomato,0.05876026222423394
+all,North East,Vegetables,Onion bulb,0.05876026222423394
+all,North East,Poultry and eggs,Frozen chicken,0.012123161447164747
+all,North East,Poultry and eggs,Chicken Feet,0.012123161447164747
+all,North East,Poultry and eggs,Chicken Wings,0.012123161447164747
+all,North East,Poultry and eggs,Agric eggs medium size,0.012123161447164747
+all,North East,Meat,Beef Bone in,0.029626580550462363
+all,North East,Meat,"Beef,boneless",0.029626580550462363
+all,North East,Fish,Catfish (obokun) fresh,0.003489263435612179
+all,North East,Fish,Catfish :dried,0.003489263435612179
+all,North East,Fish,Catfish Smoked,0.003489263435612179
+all,North East,Fish,Dried Fish Sardine,0.003489263435612179
+all,North East,Fish,Iced Sardine,0.003489263435612179
+all,North East,Fish,Mackerel : frozen,0.003489263435612179
+all,North East,Fish,Mudfish (aro) fresh,0.003489263435612179
+all,North East,Fish,Mudfish : dried,0.003489263435612179
+all,North East,Fish,Tilapia fish (epiya) fresh,0.003489263435612179
+all,North East,Fish,Titus:frozen,0.003489263435612179
+all,North East,Dairy,Evaporated tinned milk carnation 170g,0.01490441989255902
+all,North East,Dairy,"Evaporated tinned milk(peak), 170g",0.01490441989255902
+all,North East,"Rice, local",Rice local sold loose,0.04937748621063697
+all,North East,"Rice, local",Rice agric sold loose,0.04937748621063697
+all,North East,"Rice, local",Broken Rice (Ofada),0.04937748621063697
+all,North East,Maize,Maize grain white sold loose,0.05348906522686178
+all,North East,Maize,Maize grain yellow sold loose,0.05348906522686178
+all,North East,"Rice, imported","Rice,imported high quality sold loose",0.008435675585829399
+all,North East,"Rice, imported",Rice Medium Grained,0.008435675585829399
+all,North West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.17613750779967774
+all,North West,Baked food,Bread sliced 500g,0.02515066532689941
+all,North West,Baked food,Bread unsliced 500g,0.02515066532689941
+all,North West,Starchy foods,Yam tuber,0.009665212505042051
+all,North West,Starchy foods,"Gari white,sold loose",0.009665212505042051
+all,North West,Starchy foods,"Gari yellow,sold loose",0.009665212505042051
+all,North West,Starchy foods,Irish potato,0.009665212505042051
+all,North West,Starchy foods,Sweet potato,0.009665212505042051
+all,North West,Starchy foods,Plantain(ripe),0.009665212505042051
+all,North West,Starchy foods,Plantain(unripe),0.009665212505042051
+all,North West,Pulses,"Beans brown,sold loose",0.03286683817832823
+all,North West,Pulses,Beans:white black eye. sold loose,0.03286683817832823
+all,North West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.028107273816194434
+all,North West,Oils,"Palm oil: 1 bottle,specify bottle",0.028107273816194434
+all,North West,Oils,"Vegetable oil:1 bottle,specify bottle",0.028107273816194434
+all,North West,Vegetables,Tomato,0.058987379858839055
+all,North West,Vegetables,Onion bulb,0.058987379858839055
+all,North West,Poultry and eggs,Frozen chicken,0.01396211643582177
+all,North West,Poultry and eggs,Chicken Feet,0.01396211643582177
+all,North West,Poultry and eggs,Chicken Wings,0.01396211643582177
+all,North West,Poultry and eggs,Agric eggs medium size,0.01396211643582177
+all,North West,Meat,Beef Bone in,0.033524007111260405
+all,North West,Meat,"Beef,boneless",0.033524007111260405
+all,North West,Fish,Catfish (obokun) fresh,0.0027396408765080053
+all,North West,Fish,Catfish :dried,0.0027396408765080053
+all,North West,Fish,Catfish Smoked,0.0027396408765080053
+all,North West,Fish,Dried Fish Sardine,0.0027396408765080053
+all,North West,Fish,Iced Sardine,0.0027396408765080053
+all,North West,Fish,Mackerel : frozen,0.0027396408765080053
+all,North West,Fish,Mudfish (aro) fresh,0.0027396408765080053
+all,North West,Fish,Mudfish : dried,0.0027396408765080053
+all,North West,Fish,Tilapia fish (epiya) fresh,0.0027396408765080053
+all,North West,Fish,Titus:frozen,0.0027396408765080053
+all,North West,Dairy,Evaporated tinned milk carnation 170g,0.019290694085898712
+all,North West,Dairy,"Evaporated tinned milk(peak), 170g",0.019290694085898712
+all,North West,"Rice, local",Rice local sold loose,0.043740086201504595
+all,North West,"Rice, local",Rice agric sold loose,0.043740086201504595
+all,North West,"Rice, local",Broken Rice (Ofada),0.043740086201504595
+all,North West,Maize,Maize grain white sold loose,0.03716650742662001
+all,North West,Maize,Maize grain yellow sold loose,0.03716650742662001
+all,North West,"Rice, imported","Rice,imported high quality sold loose",0.021723433063935958
+all,North West,"Rice, imported",Rice Medium Grained,0.021723433063935958
+all,South East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.0189238818791709
+all,South East,Baked food,Bread sliced 500g,0.03276530653171827
+all,South East,Baked food,Bread unsliced 500g,0.03276530653171827
+all,South East,Starchy foods,Yam tuber,0.03553810087100207
+all,South East,Starchy foods,"Gari white,sold loose",0.03553810087100207
+all,South East,Starchy foods,"Gari yellow,sold loose",0.03553810087100207
+all,South East,Starchy foods,Irish potato,0.03553810087100207
+all,South East,Starchy foods,Sweet potato,0.03553810087100207
+all,South East,Starchy foods,Plantain(ripe),0.03553810087100207
+all,South East,Starchy foods,Plantain(unripe),0.03553810087100207
+all,South East,Pulses,"Beans brown,sold loose",0.041372554597399254
+all,South East,Pulses,Beans:white black eye. sold loose,0.041372554597399254
+all,South East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.01754108959720602
+all,South East,Oils,"Palm oil: 1 bottle,specify bottle",0.01754108959720602
+all,South East,Oils,"Vegetable oil:1 bottle,specify bottle",0.01754108959720602
+all,South East,Vegetables,Tomato,0.0654546352324204
+all,South East,Vegetables,Onion bulb,0.0654546352324204
+all,South East,Poultry and eggs,Frozen chicken,0.011333788517304327
+all,South East,Poultry and eggs,Chicken Feet,0.011333788517304327
+all,South East,Poultry and eggs,Chicken Wings,0.011333788517304327
+all,South East,Poultry and eggs,Agric eggs medium size,0.011333788517304327
+all,South East,Meat,Beef Bone in,0.03819089886325467
+all,South East,Meat,"Beef,boneless",0.03819089886325467
+all,South East,Fish,Catfish (obokun) fresh,0.011186937366229704
+all,South East,Fish,Catfish :dried,0.011186937366229704
+all,South East,Fish,Catfish Smoked,0.011186937366229704
+all,South East,Fish,Dried Fish Sardine,0.011186937366229704
+all,South East,Fish,Iced Sardine,0.011186937366229704
+all,South East,Fish,Mackerel : frozen,0.011186937366229704
+all,South East,Fish,Mudfish (aro) fresh,0.011186937366229704
+all,South East,Fish,Mudfish : dried,0.011186937366229704
+all,South East,Fish,Tilapia fish (epiya) fresh,0.011186937366229704
+all,South East,Fish,Titus:frozen,0.011186937366229704
+all,South East,Dairy,Evaporated tinned milk carnation 170g,0.01672971163499851
+all,South East,Dairy,"Evaporated tinned milk(peak), 170g",0.01672971163499851
+all,South East,"Rice, local",Rice local sold loose,0.023101421141146276
+all,South East,"Rice, local",Rice agric sold loose,0.023101421141146276
+all,South East,"Rice, local",Broken Rice (Ofada),0.023101421141146276
+all,South East,Maize,Maize grain white sold loose,0.007471253288446873
+all,South East,Maize,Maize grain yellow sold loose,0.007471253288446873
+all,South East,"Rice, imported","Rice,imported high quality sold loose",0.02460431589038363
+all,South East,"Rice, imported",Rice Medium Grained,0.02460431589038363
+all,South South,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.007254778032828413
+all,South South,Baked food,Bread sliced 500g,0.03424792848666445
+all,South South,Baked food,Bread unsliced 500g,0.03424792848666445
+all,South South,Starchy foods,Yam tuber,0.032587693192380834
+all,South South,Starchy foods,"Gari white,sold loose",0.032587693192380834
+all,South South,Starchy foods,"Gari yellow,sold loose",0.032587693192380834
+all,South South,Starchy foods,Irish potato,0.032587693192380834
+all,South South,Starchy foods,Sweet potato,0.032587693192380834
+all,South South,Starchy foods,Plantain(ripe),0.032587693192380834
+all,South South,Starchy foods,Plantain(unripe),0.032587693192380834
+all,South South,Pulses,"Beans brown,sold loose",0.0449902498609566
+all,South South,Pulses,Beans:white black eye. sold loose,0.0449902498609566
+all,South South,Oils,"Groundnut oil: 1 bottle, specify bottle",0.01612213718254588
+all,South South,Oils,"Palm oil: 1 bottle,specify bottle",0.01612213718254588
+all,South South,Oils,"Vegetable oil:1 bottle,specify bottle",0.01612213718254588
+all,South South,Vegetables,Tomato,0.05075942572829885
+all,South South,Vegetables,Onion bulb,0.05075942572829885
+all,South South,Poultry and eggs,Frozen chicken,0.012891866376264221
+all,South South,Poultry and eggs,Chicken Feet,0.012891866376264221
+all,South South,Poultry and eggs,Chicken Wings,0.012891866376264221
+all,South South,Poultry and eggs,Agric eggs medium size,0.012891866376264221
+all,South South,Meat,Beef Bone in,0.04777956675472051
+all,South South,Meat,"Beef,boneless",0.04777956675472051
+all,South South,Fish,Catfish (obokun) fresh,0.015897642408776176
+all,South South,Fish,Catfish :dried,0.015897642408776176
+all,South South,Fish,Catfish Smoked,0.015897642408776176
+all,South South,Fish,Dried Fish Sardine,0.015897642408776176
+all,South South,Fish,Iced Sardine,0.015897642408776176
+all,South South,Fish,Mackerel : frozen,0.015897642408776176
+all,South South,Fish,Mudfish (aro) fresh,0.015897642408776176
+all,South South,Fish,Mudfish : dried,0.015897642408776176
+all,South South,Fish,Tilapia fish (epiya) fresh,0.015897642408776176
+all,South South,Fish,Titus:frozen,0.015897642408776176
+all,South South,Dairy,Evaporated tinned milk carnation 170g,0.015239863355522885
+all,South South,Dairy,"Evaporated tinned milk(peak), 170g",0.015239863355522885
+all,South South,"Rice, local",Rice local sold loose,0.01490978982424364
+all,South South,"Rice, local",Rice agric sold loose,0.01490978982424364
+all,South South,"Rice, local",Broken Rice (Ofada),0.01490978982424364
+all,South South,Maize,Maize grain white sold loose,0.005188754077955467
+all,South South,Maize,Maize grain yellow sold loose,0.005188754077955467
+all,South South,"Rice, imported","Rice,imported high quality sold loose",0.0322900612395405
+all,South South,"Rice, imported",Rice Medium Grained,0.0322900612395405
+all,South West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.07069230592450389
+all,South West,Baked food,Bread sliced 500g,0.04116553716631345
+all,South West,Baked food,Bread unsliced 500g,0.04116553716631345
+all,South West,Starchy foods,Yam tuber,0.022258155348943227
+all,South West,Starchy foods,"Gari white,sold loose",0.022258155348943227
+all,South West,Starchy foods,"Gari yellow,sold loose",0.022258155348943227
+all,South West,Starchy foods,Irish potato,0.022258155348943227
+all,South West,Starchy foods,Sweet potato,0.022258155348943227
+all,South West,Starchy foods,Plantain(ripe),0.022258155348943227
+all,South West,Starchy foods,Plantain(unripe),0.022258155348943227
+all,South West,Pulses,"Beans brown,sold loose",0.03546645966936098
+all,South West,Pulses,Beans:white black eye. sold loose,0.03546645966936098
+all,South West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.021645694196050738
+all,South West,Oils,"Palm oil: 1 bottle,specify bottle",0.021645694196050738
+all,South West,Oils,"Vegetable oil:1 bottle,specify bottle",0.021645694196050738
+all,South West,Vegetables,Tomato,0.06031619610951785
+all,South West,Vegetables,Onion bulb,0.06031619610951785
+all,South West,Poultry and eggs,Frozen chicken,0.01696434936253135
+all,South West,Poultry and eggs,Chicken Feet,0.01696434936253135
+all,South West,Poultry and eggs,Chicken Wings,0.01696434936253135
+all,South West,Poultry and eggs,Agric eggs medium size,0.01696434936253135
+all,South West,Meat,Beef Bone in,0.042441523501291746
+all,South West,Meat,"Beef,boneless",0.042441523501291746
+all,South West,Fish,Catfish (obokun) fresh,0.010562104786673202
+all,South West,Fish,Catfish :dried,0.010562104786673202
+all,South West,Fish,Catfish Smoked,0.010562104786673202
+all,South West,Fish,Dried Fish Sardine,0.010562104786673202
+all,South West,Fish,Iced Sardine,0.010562104786673202
+all,South West,Fish,Mackerel : frozen,0.010562104786673202
+all,South West,Fish,Mudfish (aro) fresh,0.010562104786673202
+all,South West,Fish,Mudfish : dried,0.010562104786673202
+all,South West,Fish,Tilapia fish (epiya) fresh,0.010562104786673202
+all,South West,Fish,Titus:frozen,0.010562104786673202
+all,South West,Dairy,Evaporated tinned milk carnation 170g,0.016364508429893343
+all,South West,Dairy,"Evaporated tinned milk(peak), 170g",0.016364508429893343
+all,South West,"Rice, local",Rice local sold loose,0.0058557633578784655
+all,South West,"Rice, local",Rice agric sold loose,0.0058557633578784655
+all,South West,"Rice, local",Broken Rice (Ofada),0.0058557633578784655
+all,South West,Maize,Maize grain white sold loose,0.016431794882545016
+all,South West,Maize,Maize grain yellow sold loose,0.016431794882545016
+all,South West,"Rice, imported","Rice,imported high quality sold loose",0.046572874568201875
+all,South West,"Rice, imported",Rice Medium Grained,0.046572874568201875
+bottom40,National,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.1611292236405412
+bottom40,National,Baked food,Bread sliced 500g,0.018357297084431387
+bottom40,National,Baked food,Bread unsliced 500g,0.018357297084431387
+bottom40,National,Starchy foods,Yam tuber,0.018749959406466156
+bottom40,National,Starchy foods,"Gari white,sold loose",0.018749959406466156
+bottom40,National,Starchy foods,"Gari yellow,sold loose",0.018749959406466156
+bottom40,National,Starchy foods,Irish potato,0.018749959406466156
+bottom40,National,Starchy foods,Sweet potato,0.018749959406466156
+bottom40,National,Starchy foods,Plantain(ripe),0.018749959406466156
+bottom40,National,Starchy foods,Plantain(unripe),0.018749959406466156
+bottom40,National,Pulses,"Beans brown,sold loose",0.040135995417849304
+bottom40,National,Pulses,Beans:white black eye. sold loose,0.040135995417849304
+bottom40,National,Oils,"Groundnut oil: 1 bottle, specify bottle",0.026204078168317654
+bottom40,National,Oils,"Palm oil: 1 bottle,specify bottle",0.026204078168317654
+bottom40,National,Oils,"Vegetable oil:1 bottle,specify bottle",0.026204078168317654
+bottom40,National,Vegetables,Tomato,0.06177583692867827
+bottom40,National,Vegetables,Onion bulb,0.06177583692867827
+bottom40,National,Poultry and eggs,Frozen chicken,0.007939120927047107
+bottom40,National,Poultry and eggs,Chicken Feet,0.007939120927047107
+bottom40,National,Poultry and eggs,Chicken Wings,0.007939120927047107
+bottom40,National,Poultry and eggs,Agric eggs medium size,0.007939120927047107
+bottom40,National,Meat,Beef Bone in,0.027775050683816072
+bottom40,National,Meat,"Beef,boneless",0.027775050683816072
+bottom40,National,Fish,Catfish (obokun) fresh,0.0046005724323032885
+bottom40,National,Fish,Catfish :dried,0.0046005724323032885
+bottom40,National,Fish,Catfish Smoked,0.0046005724323032885
+bottom40,National,Fish,Dried Fish Sardine,0.0046005724323032885
+bottom40,National,Fish,Iced Sardine,0.0046005724323032885
+bottom40,National,Fish,Mackerel : frozen,0.0046005724323032885
+bottom40,National,Fish,Mudfish (aro) fresh,0.0046005724323032885
+bottom40,National,Fish,Mudfish : dried,0.0046005724323032885
+bottom40,National,Fish,Tilapia fish (epiya) fresh,0.0046005724323032885
+bottom40,National,Fish,Titus:frozen,0.0046005724323032885
+bottom40,National,Dairy,Evaporated tinned milk carnation 170g,0.011880074595162615
+bottom40,National,Dairy,"Evaporated tinned milk(peak), 170g",0.011880074595162615
+bottom40,National,"Rice, local",Rice local sold loose,0.043220974067923905
+bottom40,National,"Rice, local",Rice agric sold loose,0.043220974067923905
+bottom40,National,"Rice, local",Broken Rice (Ofada),0.043220974067923905
+bottom40,National,Maize,Maize grain white sold loose,0.03860490651696238
+bottom40,National,Maize,Maize grain yellow sold loose,0.03860490651696238
+bottom40,National,"Rice, imported","Rice,imported high quality sold loose",0.012262686660224738
+bottom40,National,"Rice, imported",Rice Medium Grained,0.012262686660224738
+bottom40,North Central,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.1277266476600154
+bottom40,North Central,Baked food,Bread sliced 500g,0.01791125870486623
+bottom40,North Central,Baked food,Bread unsliced 500g,0.01791125870486623
+bottom40,North Central,Starchy foods,Yam tuber,0.0270109206422857
+bottom40,North Central,Starchy foods,"Gari white,sold loose",0.0270109206422857
+bottom40,North Central,Starchy foods,"Gari yellow,sold loose",0.0270109206422857
+bottom40,North Central,Starchy foods,Irish potato,0.0270109206422857
+bottom40,North Central,Starchy foods,Sweet potato,0.0270109206422857
+bottom40,North Central,Starchy foods,Plantain(ripe),0.0270109206422857
+bottom40,North Central,Starchy foods,Plantain(unripe),0.0270109206422857
+bottom40,North Central,Pulses,"Beans brown,sold loose",0.042378057143837716
+bottom40,North Central,Pulses,Beans:white black eye. sold loose,0.042378057143837716
+bottom40,North Central,Oils,"Groundnut oil: 1 bottle, specify bottle",0.024074402237922007
+bottom40,North Central,Oils,"Palm oil: 1 bottle,specify bottle",0.024074402237922007
+bottom40,North Central,Oils,"Vegetable oil:1 bottle,specify bottle",0.024074402237922007
+bottom40,North Central,Vegetables,Tomato,0.05766370293619968
+bottom40,North Central,Vegetables,Onion bulb,0.05766370293619968
+bottom40,North Central,Poultry and eggs,Frozen chicken,0.010833309972641543
+bottom40,North Central,Poultry and eggs,Chicken Feet,0.010833309972641543
+bottom40,North Central,Poultry and eggs,Chicken Wings,0.010833309972641543
+bottom40,North Central,Poultry and eggs,Agric eggs medium size,0.010833309972641543
+bottom40,North Central,Meat,Beef Bone in,0.029905752828846808
+bottom40,North Central,Meat,"Beef,boneless",0.029905752828846808
+bottom40,North Central,Fish,Catfish (obokun) fresh,0.0036124056092391756
+bottom40,North Central,Fish,Catfish :dried,0.0036124056092391756
+bottom40,North Central,Fish,Catfish Smoked,0.0036124056092391756
+bottom40,North Central,Fish,Dried Fish Sardine,0.0036124056092391756
+bottom40,North Central,Fish,Iced Sardine,0.0036124056092391756
+bottom40,North Central,Fish,Mackerel : frozen,0.0036124056092391756
+bottom40,North Central,Fish,Mudfish (aro) fresh,0.0036124056092391756
+bottom40,North Central,Fish,Mudfish : dried,0.0036124056092391756
+bottom40,North Central,Fish,Tilapia fish (epiya) fresh,0.0036124056092391756
+bottom40,North Central,Fish,Titus:frozen,0.0036124056092391756
+bottom40,North Central,Dairy,Evaporated tinned milk carnation 170g,0.00881294261253523
+bottom40,North Central,Dairy,"Evaporated tinned milk(peak), 170g",0.00881294261253523
+bottom40,North Central,"Rice, local",Rice local sold loose,0.04239378535625928
+bottom40,North Central,"Rice, local",Rice agric sold loose,0.04239378535625928
+bottom40,North Central,"Rice, local",Broken Rice (Ofada),0.04239378535625928
+bottom40,North Central,Maize,Maize grain white sold loose,0.04236921338669582
+bottom40,North Central,Maize,Maize grain yellow sold loose,0.04236921338669582
+bottom40,North Central,"Rice, imported","Rice,imported high quality sold loose",0.003126596926260006
+bottom40,North Central,"Rice, imported",Rice Medium Grained,0.003126596926260006
+bottom40,North East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.16821768188158676
+bottom40,North East,Baked food,Bread sliced 500g,0.01992167086398014
+bottom40,North East,Baked food,Bread unsliced 500g,0.01992167086398014
+bottom40,North East,Starchy foods,Yam tuber,0.008673989146435157
+bottom40,North East,Starchy foods,"Gari white,sold loose",0.008673989146435157
+bottom40,North East,Starchy foods,"Gari yellow,sold loose",0.008673989146435157
+bottom40,North East,Starchy foods,Irish potato,0.008673989146435157
+bottom40,North East,Starchy foods,Sweet potato,0.008673989146435157
+bottom40,North East,Starchy foods,Plantain(ripe),0.008673989146435157
+bottom40,North East,Starchy foods,Plantain(unripe),0.008673989146435157
+bottom40,North East,Pulses,"Beans brown,sold loose",0.04721618975598893
+bottom40,North East,Pulses,Beans:white black eye. sold loose,0.04721618975598893
+bottom40,North East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.027417848390394597
+bottom40,North East,Oils,"Palm oil: 1 bottle,specify bottle",0.027417848390394597
+bottom40,North East,Oils,"Vegetable oil:1 bottle,specify bottle",0.027417848390394597
+bottom40,North East,Vegetables,Tomato,0.061578144992061955
+bottom40,North East,Vegetables,Onion bulb,0.061578144992061955
+bottom40,North East,Poultry and eggs,Frozen chicken,0.008949231339194869
+bottom40,North East,Poultry and eggs,Chicken Feet,0.008949231339194869
+bottom40,North East,Poultry and eggs,Chicken Wings,0.008949231339194869
+bottom40,North East,Poultry and eggs,Agric eggs medium size,0.008949231339194869
+bottom40,North East,Meat,Beef Bone in,0.024359449114161668
+bottom40,North East,Meat,"Beef,boneless",0.024359449114161668
+bottom40,North East,Fish,Catfish (obokun) fresh,0.00253007722251097
+bottom40,North East,Fish,Catfish :dried,0.00253007722251097
+bottom40,North East,Fish,Catfish Smoked,0.00253007722251097
+bottom40,North East,Fish,Dried Fish Sardine,0.00253007722251097
+bottom40,North East,Fish,Iced Sardine,0.00253007722251097
+bottom40,North East,Fish,Mackerel : frozen,0.00253007722251097
+bottom40,North East,Fish,Mudfish (aro) fresh,0.00253007722251097
+bottom40,North East,Fish,Mudfish : dried,0.00253007722251097
+bottom40,North East,Fish,Tilapia fish (epiya) fresh,0.00253007722251097
+bottom40,North East,Fish,Titus:frozen,0.00253007722251097
+bottom40,North East,Dairy,Evaporated tinned milk carnation 170g,0.012605089774022145
+bottom40,North East,Dairy,"Evaporated tinned milk(peak), 170g",0.012605089774022145
+bottom40,North East,"Rice, local",Rice local sold loose,0.05132340771858023
+bottom40,North East,"Rice, local",Rice agric sold loose,0.05132340771858023
+bottom40,North East,"Rice, local",Broken Rice (Ofada),0.05132340771858023
+bottom40,North East,Maize,Maize grain white sold loose,0.06537287873045311
+bottom40,North East,Maize,Maize grain yellow sold loose,0.06537287873045311
+bottom40,North East,"Rice, imported","Rice,imported high quality sold loose",0.0058180408616086456
+bottom40,North East,"Rice, imported",Rice Medium Grained,0.0058180408616086456
+bottom40,North West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.2523892099487203
+bottom40,North West,Baked food,Bread sliced 500g,0.013397526248220125
+bottom40,North West,Baked food,Bread unsliced 500g,0.013397526248220125
+bottom40,North West,Starchy foods,Yam tuber,0.006891585163771102
+bottom40,North West,Starchy foods,"Gari white,sold loose",0.006891585163771102
+bottom40,North West,Starchy foods,"Gari yellow,sold loose",0.006891585163771102
+bottom40,North West,Starchy foods,Irish potato,0.006891585163771102
+bottom40,North West,Starchy foods,Sweet potato,0.006891585163771102
+bottom40,North West,Starchy foods,Plantain(ripe),0.006891585163771102
+bottom40,North West,Starchy foods,Plantain(unripe),0.006891585163771102
+bottom40,North West,Pulses,"Beans brown,sold loose",0.033582586425729075
+bottom40,North West,Pulses,Beans:white black eye. sold loose,0.033582586425729075
+bottom40,North West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02999377254227104
+bottom40,North West,Oils,"Palm oil: 1 bottle,specify bottle",0.02999377254227104
+bottom40,North West,Oils,"Vegetable oil:1 bottle,specify bottle",0.02999377254227104
+bottom40,North West,Vegetables,Tomato,0.0628989519142871
+bottom40,North West,Vegetables,Onion bulb,0.0628989519142871
+bottom40,North West,Poultry and eggs,Frozen chicken,0.008050662461465128
+bottom40,North West,Poultry and eggs,Chicken Feet,0.008050662461465128
+bottom40,North West,Poultry and eggs,Chicken Wings,0.008050662461465128
+bottom40,North West,Poultry and eggs,Agric eggs medium size,0.008050662461465128
+bottom40,North West,Meat,Beef Bone in,0.027298204931592115
+bottom40,North West,Meat,"Beef,boneless",0.027298204931592115
+bottom40,North West,Fish,Catfish (obokun) fresh,0.0019406409144201084
+bottom40,North West,Fish,Catfish :dried,0.0019406409144201084
+bottom40,North West,Fish,Catfish Smoked,0.0019406409144201084
+bottom40,North West,Fish,Dried Fish Sardine,0.0019406409144201084
+bottom40,North West,Fish,Iced Sardine,0.0019406409144201084
+bottom40,North West,Fish,Mackerel : frozen,0.0019406409144201084
+bottom40,North West,Fish,Mudfish (aro) fresh,0.0019406409144201084
+bottom40,North West,Fish,Mudfish : dried,0.0019406409144201084
+bottom40,North West,Fish,Tilapia fish (epiya) fresh,0.0019406409144201084
+bottom40,North West,Fish,Titus:frozen,0.0019406409144201084
+bottom40,North West,Dairy,Evaporated tinned milk carnation 170g,0.014646246821000386
+bottom40,North West,Dairy,"Evaporated tinned milk(peak), 170g",0.014646246821000386
+bottom40,North West,"Rice, local",Rice local sold loose,0.05029341332611231
+bottom40,North West,"Rice, local",Rice agric sold loose,0.05029341332611231
+bottom40,North West,"Rice, local",Broken Rice (Ofada),0.05029341332611231
+bottom40,North West,Maize,Maize grain white sold loose,0.04212167878140491
+bottom40,North West,Maize,Maize grain yellow sold loose,0.04212167878140491
+bottom40,North West,"Rice, imported","Rice,imported high quality sold loose",0.009504343532601423
+bottom40,North West,"Rice, imported",Rice Medium Grained,0.009504343532601423
+bottom40,South East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.04156776473903666
+bottom40,South East,Baked food,Bread sliced 500g,0.0240545044048351
+bottom40,South East,Baked food,Bread unsliced 500g,0.0240545044048351
+bottom40,South East,Starchy foods,Yam tuber,0.0394491143265296
+bottom40,South East,Starchy foods,"Gari white,sold loose",0.0394491143265296
+bottom40,South East,Starchy foods,"Gari yellow,sold loose",0.0394491143265296
+bottom40,South East,Starchy foods,Irish potato,0.0394491143265296
+bottom40,South East,Starchy foods,Sweet potato,0.0394491143265296
+bottom40,South East,Starchy foods,Plantain(ripe),0.0394491143265296
+bottom40,South East,Starchy foods,Plantain(unripe),0.0394491143265296
+bottom40,South East,Pulses,"Beans brown,sold loose",0.04432684876183079
+bottom40,South East,Pulses,Beans:white black eye. sold loose,0.04432684876183079
+bottom40,South East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02137343811773293
+bottom40,South East,Oils,"Palm oil: 1 bottle,specify bottle",0.02137343811773293
+bottom40,South East,Oils,"Vegetable oil:1 bottle,specify bottle",0.02137343811773293
+bottom40,South East,Vegetables,Tomato,0.07042613565368316
+bottom40,South East,Vegetables,Onion bulb,0.07042613565368316
+bottom40,South East,Poultry and eggs,Frozen chicken,0.005207492025907827
+bottom40,South East,Poultry and eggs,Chicken Feet,0.005207492025907827
+bottom40,South East,Poultry and eggs,Chicken Wings,0.005207492025907827
+bottom40,South East,Poultry and eggs,Agric eggs medium size,0.005207492025907827
+bottom40,South East,Meat,Beef Bone in,0.02367511043175211
+bottom40,South East,Meat,"Beef,boneless",0.02367511043175211
+bottom40,South East,Fish,Catfish (obokun) fresh,0.00987964759538323
+bottom40,South East,Fish,Catfish :dried,0.00987964759538323
+bottom40,South East,Fish,Catfish Smoked,0.00987964759538323
+bottom40,South East,Fish,Dried Fish Sardine,0.00987964759538323
+bottom40,South East,Fish,Iced Sardine,0.00987964759538323
+bottom40,South East,Fish,Mackerel : frozen,0.00987964759538323
+bottom40,South East,Fish,Mudfish (aro) fresh,0.00987964759538323
+bottom40,South East,Fish,Mudfish : dried,0.00987964759538323
+bottom40,South East,Fish,Tilapia fish (epiya) fresh,0.00987964759538323
+bottom40,South East,Fish,Titus:frozen,0.00987964759538323
+bottom40,South East,Dairy,Evaporated tinned milk carnation 170g,0.010538020252122672
+bottom40,South East,Dairy,"Evaporated tinned milk(peak), 170g",0.010538020252122672
+bottom40,South East,"Rice, local",Rice local sold loose,0.03503563129217655
+bottom40,South East,"Rice, local",Rice agric sold loose,0.03503563129217655
+bottom40,South East,"Rice, local",Broken Rice (Ofada),0.03503563129217655
+bottom40,South East,Maize,Maize grain white sold loose,0.008956619938432825
+bottom40,South East,Maize,Maize grain yellow sold loose,0.008956619938432825
+bottom40,South East,"Rice, imported","Rice,imported high quality sold loose",0.014740151901375318
+bottom40,South East,"Rice, imported",Rice Medium Grained,0.014740151901375318
+bottom40,South South,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.006290586763562273
+bottom40,South South,Baked food,Bread sliced 500g,0.02558599041256099
+bottom40,South South,Baked food,Bread unsliced 500g,0.02558599041256099
+bottom40,South South,Starchy foods,Yam tuber,0.04487281459832869
+bottom40,South South,Starchy foods,"Gari white,sold loose",0.04487281459832869
+bottom40,South South,Starchy foods,"Gari yellow,sold loose",0.04487281459832869
+bottom40,South South,Starchy foods,Irish potato,0.04487281459832869
+bottom40,South South,Starchy foods,Sweet potato,0.04487281459832869
+bottom40,South South,Starchy foods,Plantain(ripe),0.04487281459832869
+bottom40,South South,Starchy foods,Plantain(unripe),0.04487281459832869
+bottom40,South South,Pulses,"Beans brown,sold loose",0.0456748918407817
+bottom40,South South,Pulses,Beans:white black eye. sold loose,0.0456748918407817
+bottom40,South South,Oils,"Groundnut oil: 1 bottle, specify bottle",0.01792442328089353
+bottom40,South South,Oils,"Palm oil: 1 bottle,specify bottle",0.01792442328089353
+bottom40,South South,Oils,"Vegetable oil:1 bottle,specify bottle",0.01792442328089353
+bottom40,South South,Vegetables,Tomato,0.05322992718019824
+bottom40,South South,Vegetables,Onion bulb,0.05322992718019824
+bottom40,South South,Poultry and eggs,Frozen chicken,0.0043575364066438926
+bottom40,South South,Poultry and eggs,Chicken Feet,0.0043575364066438926
+bottom40,South South,Poultry and eggs,Chicken Wings,0.0043575364066438926
+bottom40,South South,Poultry and eggs,Agric eggs medium size,0.0043575364066438926
+bottom40,South South,Meat,Beef Bone in,0.03339249565410091
+bottom40,South South,Meat,"Beef,boneless",0.03339249565410091
+bottom40,South South,Fish,Catfish (obokun) fresh,0.014054240437954446
+bottom40,South South,Fish,Catfish :dried,0.014054240437954446
+bottom40,South South,Fish,Catfish Smoked,0.014054240437954446
+bottom40,South South,Fish,Dried Fish Sardine,0.014054240437954446
+bottom40,South South,Fish,Iced Sardine,0.014054240437954446
+bottom40,South South,Fish,Mackerel : frozen,0.014054240437954446
+bottom40,South South,Fish,Mudfish (aro) fresh,0.014054240437954446
+bottom40,South South,Fish,Mudfish : dried,0.014054240437954446
+bottom40,South South,Fish,Tilapia fish (epiya) fresh,0.014054240437954446
+bottom40,South South,Fish,Titus:frozen,0.014054240437954446
+bottom40,South South,Dairy,Evaporated tinned milk carnation 170g,0.008850330005792616
+bottom40,South South,Dairy,"Evaporated tinned milk(peak), 170g",0.008850330005792616
+bottom40,South South,"Rice, local",Rice local sold loose,0.022050356894088834
+bottom40,South South,"Rice, local",Rice agric sold loose,0.022050356894088834
+bottom40,South South,"Rice, local",Broken Rice (Ofada),0.022050356894088834
+bottom40,South South,Maize,Maize grain white sold loose,0.004039863325615335
+bottom40,South South,Maize,Maize grain yellow sold loose,0.004039863325615335
+bottom40,South South,"Rice, imported","Rice,imported high quality sold loose",0.030077911839485067
+bottom40,South South,"Rice, imported",Rice Medium Grained,0.030077911839485067
+bottom40,South West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.07431019808123965
+bottom40,South West,Baked food,Bread sliced 500g,0.02736782152712592
+bottom40,South West,Baked food,Bread unsliced 500g,0.02736782152712592
+bottom40,South West,Starchy foods,Yam tuber,0.029060036157623505
+bottom40,South West,Starchy foods,"Gari white,sold loose",0.029060036157623505
+bottom40,South West,Starchy foods,"Gari yellow,sold loose",0.029060036157623505
+bottom40,South West,Starchy foods,Irish potato,0.029060036157623505
+bottom40,South West,Starchy foods,Sweet potato,0.029060036157623505
+bottom40,South West,Starchy foods,Plantain(ripe),0.029060036157623505
+bottom40,South West,Starchy foods,Plantain(unripe),0.029060036157623505
+bottom40,South West,Pulses,"Beans brown,sold loose",0.03789448364861376
+bottom40,South West,Pulses,Beans:white black eye. sold loose,0.03789448364861376
+bottom40,South West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.024601083808888095
+bottom40,South West,Oils,"Palm oil: 1 bottle,specify bottle",0.024601083808888095
+bottom40,South West,Oils,"Vegetable oil:1 bottle,specify bottle",0.024601083808888095
+bottom40,South West,Vegetables,Tomato,0.06460664752889571
+bottom40,South West,Vegetables,Onion bulb,0.06460664752889571
+bottom40,South West,Poultry and eggs,Frozen chicken,0.005121380398511271
+bottom40,South West,Poultry and eggs,Chicken Feet,0.005121380398511271
+bottom40,South West,Poultry and eggs,Chicken Wings,0.005121380398511271
+bottom40,South West,Poultry and eggs,Agric eggs medium size,0.005121380398511271
+bottom40,South West,Meat,Beef Bone in,0.03537313490902688
+bottom40,South West,Meat,"Beef,boneless",0.03537313490902688
+bottom40,South West,Fish,Catfish (obokun) fresh,0.008685586264848763
+bottom40,South West,Fish,Catfish :dried,0.008685586264848763
+bottom40,South West,Fish,Catfish Smoked,0.008685586264848763
+bottom40,South West,Fish,Dried Fish Sardine,0.008685586264848763
+bottom40,South West,Fish,Iced Sardine,0.008685586264848763
+bottom40,South West,Fish,Mackerel : frozen,0.008685586264848763
+bottom40,South West,Fish,Mudfish (aro) fresh,0.008685586264848763
+bottom40,South West,Fish,Mudfish : dried,0.008685586264848763
+bottom40,South West,Fish,Tilapia fish (epiya) fresh,0.008685586264848763
+bottom40,South West,Fish,Titus:frozen,0.008685586264848763
+bottom40,South West,Dairy,Evaporated tinned milk carnation 170g,0.0070266683812531235
+bottom40,South West,Dairy,"Evaporated tinned milk(peak), 170g",0.0070266683812531235
+bottom40,South West,"Rice, local",Rice local sold loose,0.016388758764633065
+bottom40,South West,"Rice, local",Rice agric sold loose,0.016388758764633065
+bottom40,South West,"Rice, local",Broken Rice (Ofada),0.016388758764633065
+bottom40,South West,Maize,Maize grain white sold loose,0.021370615003415108
+bottom40,South West,Maize,Maize grain yellow sold loose,0.021370615003415108
+bottom40,South West,"Rice, imported","Rice,imported high quality sold loose",0.05233994742781933
+bottom40,South West,"Rice, imported",Rice Medium Grained,0.05233994742781933
+poor,National,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.1601489181747192
+poor,National,Baked food,Bread sliced 500g,0.018540797575725854
+poor,National,Baked food,Bread unsliced 500g,0.018540797575725854
+poor,National,Starchy foods,Yam tuber,0.01883351156882732
+poor,National,Starchy foods,"Gari white,sold loose",0.01883351156882732
+poor,National,Starchy foods,"Gari yellow,sold loose",0.01883351156882732
+poor,National,Starchy foods,Irish potato,0.01883351156882732
+poor,National,Starchy foods,Sweet potato,0.01883351156882732
+poor,National,Starchy foods,Plantain(ripe),0.01883351156882732
+poor,National,Starchy foods,Plantain(unripe),0.01883351156882732
+poor,National,Pulses,"Beans brown,sold loose",0.04008240612745589
+poor,National,Pulses,Beans:white black eye. sold loose,0.04008240612745589
+poor,National,Oils,"Groundnut oil: 1 bottle, specify bottle",0.026201348243125564
+poor,National,Oils,"Palm oil: 1 bottle,specify bottle",0.026201348243125564
+poor,National,Oils,"Vegetable oil:1 bottle,specify bottle",0.026201348243125564
+poor,National,Vegetables,Tomato,0.061693310972099666
+poor,National,Vegetables,Onion bulb,0.061693310972099666
+poor,National,Poultry and eggs,Frozen chicken,0.007995431161076686
+poor,National,Poultry and eggs,Chicken Feet,0.007995431161076686
+poor,National,Poultry and eggs,Chicken Wings,0.007995431161076686
+poor,National,Poultry and eggs,Agric eggs medium size,0.007995431161076686
+poor,National,Meat,Beef Bone in,0.02801442962711082
+poor,National,Meat,"Beef,boneless",0.02801442962711082
+poor,National,Fish,Catfish (obokun) fresh,0.004617810346532682
+poor,National,Fish,Catfish :dried,0.004617810346532682
+poor,National,Fish,Catfish Smoked,0.004617810346532682
+poor,National,Fish,Dried Fish Sardine,0.004617810346532682
+poor,National,Fish,Iced Sardine,0.004617810346532682
+poor,National,Fish,Mackerel : frozen,0.004617810346532682
+poor,National,Fish,Mudfish (aro) fresh,0.004617810346532682
+poor,National,Fish,Mudfish : dried,0.004617810346532682
+poor,National,Fish,Tilapia fish (epiya) fresh,0.004617810346532682
+poor,National,Fish,Titus:frozen,0.004617810346532682
+poor,National,Dairy,Evaporated tinned milk carnation 170g,0.01189212360353598
+poor,National,Dairy,"Evaporated tinned milk(peak), 170g",0.01189212360353598
+poor,National,"Rice, local",Rice local sold loose,0.04310991894954941
+poor,National,"Rice, local",Rice agric sold loose,0.04310991894954941
+poor,National,"Rice, local",Broken Rice (Ofada),0.04310991894954941
+poor,National,Maize,Maize grain white sold loose,0.038373200815010645
+poor,National,Maize,Maize grain yellow sold loose,0.038373200815010645
+poor,National,"Rice, imported","Rice,imported high quality sold loose",0.012365166856976681
+poor,National,"Rice, imported",Rice Medium Grained,0.012365166856976681
+poor,North Central,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.1267698992546297
+poor,North Central,Baked food,Bread sliced 500g,0.018108650807012273
+poor,North Central,Baked food,Bread unsliced 500g,0.018108650807012273
+poor,North Central,Starchy foods,Yam tuber,0.02711918779792876
+poor,North Central,Starchy foods,"Gari white,sold loose",0.02711918779792876
+poor,North Central,Starchy foods,"Gari yellow,sold loose",0.02711918779792876
+poor,North Central,Starchy foods,Irish potato,0.02711918779792876
+poor,North Central,Starchy foods,Sweet potato,0.02711918779792876
+poor,North Central,Starchy foods,Plantain(ripe),0.02711918779792876
+poor,North Central,Starchy foods,Plantain(unripe),0.02711918779792876
+poor,North Central,Pulses,"Beans brown,sold loose",0.04219954169631953
+poor,North Central,Pulses,Beans:white black eye. sold loose,0.04219954169631953
+poor,North Central,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02409876990943659
+poor,North Central,Oils,"Palm oil: 1 bottle,specify bottle",0.02409876990943659
+poor,North Central,Oils,"Vegetable oil:1 bottle,specify bottle",0.02409876990943659
+poor,North Central,Vegetables,Tomato,0.057426020974643985
+poor,North Central,Vegetables,Onion bulb,0.057426020974643985
+poor,North Central,Poultry and eggs,Frozen chicken,0.010785924232581776
+poor,North Central,Poultry and eggs,Chicken Feet,0.010785924232581776
+poor,North Central,Poultry and eggs,Chicken Wings,0.010785924232581776
+poor,North Central,Poultry and eggs,Agric eggs medium size,0.010785924232581776
+poor,North Central,Meat,Beef Bone in,0.030434594208732575
+poor,North Central,Meat,"Beef,boneless",0.030434594208732575
+poor,North Central,Fish,Catfish (obokun) fresh,0.00367372159407639
+poor,North Central,Fish,Catfish :dried,0.00367372159407639
+poor,North Central,Fish,Catfish Smoked,0.00367372159407639
+poor,North Central,Fish,Dried Fish Sardine,0.00367372159407639
+poor,North Central,Fish,Iced Sardine,0.00367372159407639
+poor,North Central,Fish,Mackerel : frozen,0.00367372159407639
+poor,North Central,Fish,Mudfish (aro) fresh,0.00367372159407639
+poor,North Central,Fish,Mudfish : dried,0.00367372159407639
+poor,North Central,Fish,Tilapia fish (epiya) fresh,0.00367372159407639
+poor,North Central,Fish,Titus:frozen,0.00367372159407639
+poor,North Central,Dairy,Evaporated tinned milk carnation 170g,0.008736247488513075
+poor,North Central,Dairy,"Evaporated tinned milk(peak), 170g",0.008736247488513075
+poor,North Central,"Rice, local",Rice local sold loose,0.04208628303025922
+poor,North Central,"Rice, local",Rice agric sold loose,0.04208628303025922
+poor,North Central,"Rice, local",Broken Rice (Ofada),0.04208628303025922
+poor,North Central,Maize,Maize grain white sold loose,0.04206627381277401
+poor,North Central,Maize,Maize grain yellow sold loose,0.04206627381277401
+poor,North Central,"Rice, imported","Rice,imported high quality sold loose",0.0035085282468498053
+poor,North Central,"Rice, imported",Rice Medium Grained,0.0035085282468498053
+poor,North East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.16822966421081642
+poor,North East,Baked food,Bread sliced 500g,0.020212562305641862
+poor,North East,Baked food,Bread unsliced 500g,0.020212562305641862
+poor,North East,Starchy foods,Yam tuber,0.00861336118231065
+poor,North East,Starchy foods,"Gari white,sold loose",0.00861336118231065
+poor,North East,Starchy foods,"Gari yellow,sold loose",0.00861336118231065
+poor,North East,Starchy foods,Irish potato,0.00861336118231065
+poor,North East,Starchy foods,Sweet potato,0.00861336118231065
+poor,North East,Starchy foods,Plantain(ripe),0.00861336118231065
+poor,North East,Starchy foods,Plantain(unripe),0.00861336118231065
+poor,North East,Pulses,"Beans brown,sold loose",0.04723884918028733
+poor,North East,Pulses,Beans:white black eye. sold loose,0.04723884918028733
+poor,North East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02743797991469671
+poor,North East,Oils,"Palm oil: 1 bottle,specify bottle",0.02743797991469671
+poor,North East,Oils,"Vegetable oil:1 bottle,specify bottle",0.02743797991469671
+poor,North East,Vegetables,Tomato,0.06174753431858463
+poor,North East,Vegetables,Onion bulb,0.06174753431858463
+poor,North East,Poultry and eggs,Frozen chicken,0.008905117884502335
+poor,North East,Poultry and eggs,Chicken Feet,0.008905117884502335
+poor,North East,Poultry and eggs,Chicken Wings,0.008905117884502335
+poor,North East,Poultry and eggs,Agric eggs medium size,0.008905117884502335
+poor,North East,Meat,Beef Bone in,0.024654809152110296
+poor,North East,Meat,"Beef,boneless",0.024654809152110296
+poor,North East,Fish,Catfish (obokun) fresh,0.0024990474307040795
+poor,North East,Fish,Catfish :dried,0.0024990474307040795
+poor,North East,Fish,Catfish Smoked,0.0024990474307040795
+poor,North East,Fish,Dried Fish Sardine,0.0024990474307040795
+poor,North East,Fish,Iced Sardine,0.0024990474307040795
+poor,North East,Fish,Mackerel : frozen,0.0024990474307040795
+poor,North East,Fish,Mudfish (aro) fresh,0.0024990474307040795
+poor,North East,Fish,Mudfish : dried,0.0024990474307040795
+poor,North East,Fish,Tilapia fish (epiya) fresh,0.0024990474307040795
+poor,North East,Fish,Titus:frozen,0.0024990474307040795
+poor,North East,Dairy,Evaporated tinned milk carnation 170g,0.012588182426581836
+poor,North East,Dairy,"Evaporated tinned milk(peak), 170g",0.012588182426581836
+poor,North East,"Rice, local",Rice local sold loose,0.05130556759406409
+poor,North East,"Rice, local",Rice agric sold loose,0.05130556759406409
+poor,North East,"Rice, local",Broken Rice (Ofada),0.05130556759406409
+poor,North East,Maize,Maize grain white sold loose,0.06516935783306524
+poor,North East,Maize,Maize grain yellow sold loose,0.06516935783306524
+poor,North East,"Rice, imported","Rice,imported high quality sold loose",0.005706314354567075
+poor,North East,"Rice, imported",Rice Medium Grained,0.005706314354567075
+poor,North West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.2514198341998349
+poor,North West,Baked food,Bread sliced 500g,0.013626670666991955
+poor,North West,Baked food,Bread unsliced 500g,0.013626670666991955
+poor,North West,Starchy foods,Yam tuber,0.006904355109611314
+poor,North West,Starchy foods,"Gari white,sold loose",0.006904355109611314
+poor,North West,Starchy foods,"Gari yellow,sold loose",0.006904355109611314
+poor,North West,Starchy foods,Irish potato,0.006904355109611314
+poor,North West,Starchy foods,Sweet potato,0.006904355109611314
+poor,North West,Starchy foods,Plantain(ripe),0.006904355109611314
+poor,North West,Starchy foods,Plantain(unripe),0.006904355109611314
+poor,North West,Pulses,"Beans brown,sold loose",0.03352422801328734
+poor,North West,Pulses,Beans:white black eye. sold loose,0.03352422801328734
+poor,North West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.03004828724021312
+poor,North West,Oils,"Palm oil: 1 bottle,specify bottle",0.03004828724021312
+poor,North West,Oils,"Vegetable oil:1 bottle,specify bottle",0.03004828724021312
+poor,North West,Vegetables,Tomato,0.06283335807762716
+poor,North West,Vegetables,Onion bulb,0.06283335807762716
+poor,North West,Poultry and eggs,Frozen chicken,0.00820110229891032
+poor,North West,Poultry and eggs,Chicken Feet,0.00820110229891032
+poor,North West,Poultry and eggs,Chicken Wings,0.00820110229891032
+poor,North West,Poultry and eggs,Agric eggs medium size,0.00820110229891032
+poor,North West,Meat,Beef Bone in,0.027275874649093076
+poor,North West,Meat,"Beef,boneless",0.027275874649093076
+poor,North West,Fish,Catfish (obokun) fresh,0.0019530611423837461
+poor,North West,Fish,Catfish :dried,0.0019530611423837461
+poor,North West,Fish,Catfish Smoked,0.0019530611423837461
+poor,North West,Fish,Dried Fish Sardine,0.0019530611423837461
+poor,North West,Fish,Iced Sardine,0.0019530611423837461
+poor,North West,Fish,Mackerel : frozen,0.0019530611423837461
+poor,North West,Fish,Mudfish (aro) fresh,0.0019530611423837461
+poor,North West,Fish,Mudfish : dried,0.0019530611423837461
+poor,North West,Fish,Tilapia fish (epiya) fresh,0.0019530611423837461
+poor,North West,Fish,Titus:frozen,0.0019530611423837461
+poor,North West,Dairy,Evaporated tinned milk carnation 170g,0.014692888107019401
+poor,North West,Dairy,"Evaporated tinned milk(peak), 170g",0.014692888107019401
+poor,North West,"Rice, local",Rice local sold loose,0.050258471962215556
+poor,North West,"Rice, local",Rice agric sold loose,0.050258471962215556
+poor,North West,"Rice, local",Broken Rice (Ofada),0.050258471962215556
+poor,North West,Maize,Maize grain white sold loose,0.04181097574669948
+poor,North West,Maize,Maize grain yellow sold loose,0.04181097574669948
+poor,North West,"Rice, imported","Rice,imported high quality sold loose",0.009733195642342202
+poor,North West,"Rice, imported",Rice Medium Grained,0.009733195642342202
+poor,South East,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.041080862623123514
+poor,South East,Baked food,Bread sliced 500g,0.024023620092969183
+poor,South East,Baked food,Bread unsliced 500g,0.024023620092969183
+poor,South East,Starchy foods,Yam tuber,0.03940074451078924
+poor,South East,Starchy foods,"Gari white,sold loose",0.03940074451078924
+poor,South East,Starchy foods,"Gari yellow,sold loose",0.03940074451078924
+poor,South East,Starchy foods,Irish potato,0.03940074451078924
+poor,South East,Starchy foods,Sweet potato,0.03940074451078924
+poor,South East,Starchy foods,Plantain(ripe),0.03940074451078924
+poor,South East,Starchy foods,Plantain(unripe),0.03940074451078924
+poor,South East,Pulses,"Beans brown,sold loose",0.04443071490079057
+poor,South East,Pulses,Beans:white black eye. sold loose,0.04443071490079057
+poor,South East,Oils,"Groundnut oil: 1 bottle, specify bottle",0.02134032880605215
+poor,South East,Oils,"Palm oil: 1 bottle,specify bottle",0.02134032880605215
+poor,South East,Oils,"Vegetable oil:1 bottle,specify bottle",0.02134032880605215
+poor,South East,Vegetables,Tomato,0.0704350250420467
+poor,South East,Vegetables,Onion bulb,0.0704350250420467
+poor,South East,Poultry and eggs,Frozen chicken,0.005135969895430373
+poor,South East,Poultry and eggs,Chicken Feet,0.005135969895430373
+poor,South East,Poultry and eggs,Chicken Wings,0.005135969895430373
+poor,South East,Poultry and eggs,Agric eggs medium size,0.005135969895430373
+poor,South East,Meat,Beef Bone in,0.024115389976551858
+poor,South East,Meat,"Beef,boneless",0.024115389976551858
+poor,South East,Fish,Catfish (obokun) fresh,0.009894814343168617
+poor,South East,Fish,Catfish :dried,0.009894814343168617
+poor,South East,Fish,Catfish Smoked,0.009894814343168617
+poor,South East,Fish,Dried Fish Sardine,0.009894814343168617
+poor,South East,Fish,Iced Sardine,0.009894814343168617
+poor,South East,Fish,Mackerel : frozen,0.009894814343168617
+poor,South East,Fish,Mudfish (aro) fresh,0.009894814343168617
+poor,South East,Fish,Mudfish : dried,0.009894814343168617
+poor,South East,Fish,Tilapia fish (epiya) fresh,0.009894814343168617
+poor,South East,Fish,Titus:frozen,0.009894814343168617
+poor,South East,Dairy,Evaporated tinned milk carnation 170g,0.010643015514723252
+poor,South East,Dairy,"Evaporated tinned milk(peak), 170g",0.010643015514723252
+poor,South East,"Rice, local",Rice local sold loose,0.03496074421829481
+poor,South East,"Rice, local",Rice agric sold loose,0.03496074421829481
+poor,South East,"Rice, local",Broken Rice (Ofada),0.03496074421829481
+poor,South East,Maize,Maize grain white sold loose,0.008847004928939679
+poor,South East,Maize,Maize grain yellow sold loose,0.008847004928939679
+poor,South East,"Rice, imported","Rice,imported high quality sold loose",0.01486457140143035
+poor,South East,"Rice, imported",Rice Medium Grained,0.01486457140143035
+poor,South South,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.006545602580633389
+poor,South South,Baked food,Bread sliced 500g,0.025442923282793746
+poor,South South,Baked food,Bread unsliced 500g,0.025442923282793746
+poor,South South,Starchy foods,Yam tuber,0.045071694772142006
+poor,South South,Starchy foods,"Gari white,sold loose",0.045071694772142006
+poor,South South,Starchy foods,"Gari yellow,sold loose",0.045071694772142006
+poor,South South,Starchy foods,Irish potato,0.045071694772142006
+poor,South South,Starchy foods,Sweet potato,0.045071694772142006
+poor,South South,Starchy foods,Plantain(ripe),0.045071694772142006
+poor,South South,Starchy foods,Plantain(unripe),0.045071694772142006
+poor,South South,Pulses,"Beans brown,sold loose",0.04527896814626223
+poor,South South,Pulses,Beans:white black eye. sold loose,0.04527896814626223
+poor,South South,Oils,"Groundnut oil: 1 bottle, specify bottle",0.017843765630627426
+poor,South South,Oils,"Palm oil: 1 bottle,specify bottle",0.017843765630627426
+poor,South South,Oils,"Vegetable oil:1 bottle,specify bottle",0.017843765630627426
+poor,South South,Vegetables,Tomato,0.0530886806958329
+poor,South South,Vegetables,Onion bulb,0.0530886806958329
+poor,South South,Poultry and eggs,Frozen chicken,0.004345708742023578
+poor,South South,Poultry and eggs,Chicken Feet,0.004345708742023578
+poor,South South,Poultry and eggs,Chicken Wings,0.004345708742023578
+poor,South South,Poultry and eggs,Agric eggs medium size,0.004345708742023578
+poor,South South,Meat,Beef Bone in,0.03373882129504824
+poor,South South,Meat,"Beef,boneless",0.03373882129504824
+poor,South South,Fish,Catfish (obokun) fresh,0.014007200788714782
+poor,South South,Fish,Catfish :dried,0.014007200788714782
+poor,South South,Fish,Catfish Smoked,0.014007200788714782
+poor,South South,Fish,Dried Fish Sardine,0.014007200788714782
+poor,South South,Fish,Iced Sardine,0.014007200788714782
+poor,South South,Fish,Mackerel : frozen,0.014007200788714782
+poor,South South,Fish,Mudfish (aro) fresh,0.014007200788714782
+poor,South South,Fish,Mudfish : dried,0.014007200788714782
+poor,South South,Fish,Tilapia fish (epiya) fresh,0.014007200788714782
+poor,South South,Fish,Titus:frozen,0.014007200788714782
+poor,South South,Dairy,Evaporated tinned milk carnation 170g,0.009049184947580634
+poor,South South,Dairy,"Evaporated tinned milk(peak), 170g",0.009049184947580634
+poor,South South,"Rice, local",Rice local sold loose,0.021948019262452403
+poor,South South,"Rice, local",Rice agric sold loose,0.021948019262452403
+poor,South South,"Rice, local",Broken Rice (Ofada),0.021948019262452403
+poor,South South,Maize,Maize grain white sold loose,0.004216948943147566
+poor,South South,Maize,Maize grain yellow sold loose,0.004216948943147566
+poor,South South,"Rice, imported","Rice,imported high quality sold loose",0.029745640929280236
+poor,South South,"Rice, imported",Rice Medium Grained,0.029745640929280236
+poor,South West,Grains (other),Wheat flour: prepacked (golden penny 2kg),0.07343071325663743
+poor,South West,Baked food,Bread sliced 500g,0.027500091436208112
+poor,South West,Baked food,Bread unsliced 500g,0.027500091436208112
+poor,South West,Starchy foods,Yam tuber,0.02911014115930615
+poor,South West,Starchy foods,"Gari white,sold loose",0.02911014115930615
+poor,South West,Starchy foods,"Gari yellow,sold loose",0.02911014115930615
+poor,South West,Starchy foods,Irish potato,0.02911014115930615
+poor,South West,Starchy foods,Sweet potato,0.02911014115930615
+poor,South West,Starchy foods,Plantain(ripe),0.02911014115930615
+poor,South West,Starchy foods,Plantain(unripe),0.02911014115930615
+poor,South West,Pulses,"Beans brown,sold loose",0.037763494333556254
+poor,South West,Pulses,Beans:white black eye. sold loose,0.037763494333556254
+poor,South West,Oils,"Groundnut oil: 1 bottle, specify bottle",0.024536181902881177
+poor,South West,Oils,"Palm oil: 1 bottle,specify bottle",0.024536181902881177
+poor,South West,Oils,"Vegetable oil:1 bottle,specify bottle",0.024536181902881177
+poor,South West,Vegetables,Tomato,0.06427241774658132
+poor,South West,Vegetables,Onion bulb,0.06427241774658132
+poor,South West,Poultry and eggs,Frozen chicken,0.005497135632016234
+poor,South West,Poultry and eggs,Chicken Feet,0.005497135632016234
+poor,South West,Poultry and eggs,Chicken Wings,0.005497135632016234
+poor,South West,Poultry and eggs,Agric eggs medium size,0.005497135632016234
+poor,South West,Meat,Beef Bone in,0.035641475062102086
+poor,South West,Meat,"Beef,boneless",0.035641475062102086
+poor,South West,Fish,Catfish (obokun) fresh,0.008702905373596238
+poor,South West,Fish,Catfish :dried,0.008702905373596238
+poor,South West,Fish,Catfish Smoked,0.008702905373596238
+poor,South West,Fish,Dried Fish Sardine,0.008702905373596238
+poor,South West,Fish,Iced Sardine,0.008702905373596238
+poor,South West,Fish,Mackerel : frozen,0.008702905373596238
+poor,South West,Fish,Mudfish (aro) fresh,0.008702905373596238
+poor,South West,Fish,Mudfish : dried,0.008702905373596238
+poor,South West,Fish,Tilapia fish (epiya) fresh,0.008702905373596238
+poor,South West,Fish,Titus:frozen,0.008702905373596238
+poor,South West,Dairy,Evaporated tinned milk carnation 170g,0.006943505526511864
+poor,South West,Dairy,"Evaporated tinned milk(peak), 170g",0.006943505526511864
+poor,South West,"Rice, local",Rice local sold loose,0.016391812522232173
+poor,South West,"Rice, local",Rice agric sold loose,0.016391812522232173
+poor,South West,"Rice, local",Broken Rice (Ofada),0.016391812522232173
+poor,South West,Maize,Maize grain white sold loose,0.021117686979089674
+poor,South West,Maize,Maize grain yellow sold loose,0.021117686979089674
+poor,South West,"Rice, imported","Rice,imported high quality sold loose",0.052259688460376784
+poor,South West,"Rice, imported",Rice Medium Grained,0.052259688460376784

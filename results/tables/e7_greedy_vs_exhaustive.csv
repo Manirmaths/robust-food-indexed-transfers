@@ -1,0 +1,4 @@
+K,greedy,exhaustive,greedy_states,best_states,gap_pct
+1,0.7096208589419207,0.7096208589419207,Kano,Kano,0.0
+2,0.72828485430159,0.72828485430159,Kano; Sokoto,Kano; Sokoto,0.0
+3,0.7451051461976501,0.7451051461976501,Kano; Sokoto; FCT Abuja,FCT Abuja; Kano; Sokoto,0.0

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/build.log

@@ -1,0 +1,400 @@
+population,scope,group_code,group,share,priced_items,covered
+poor,National,1,Grains (other),0.14120596038774527,1,True
+poor,National,2,Baked food,0.032695458175732245,2,True
+poor,National,3,Starchy foods,0.11624073913218896,7,True
+poor,National,4,Pulses,0.07068264608199534,2,True
+poor,National,5,Oils,0.06930649143857312,3,True
+poor,National,6,Fruits,0.03956897456721426,0,False
+poor,National,7,Vegetables,0.10879203337247807,2,True
+poor,National,8,Poultry and eggs,0.028198817667496698,4,True
+poor,National,9,Meat,0.04940157554976907,2,True
+poor,National,10,Fish,0.04071600060134202,10,True
+poor,National,11,Dairy,0.02097096569400559,2,True
+poor,National,12,Sugar,0.016645330653731586,0,False
+poor,National,13,Other food,0.03989297392556228,0,False
+poor,National,14,Non-alcoholic drinks,0.010986250899040892,0,False
+poor,National,15,Alcohol,0.004516560516937765,0,False
+poor,National,16,"Rice, local",0.11403219410201282,3,True
+poor,National,17,Maize,0.06766857667216819,2,True
+poor,National,18,Coffee and tea,0.006673304685351036,0,False
+poor,National,19,"Rice, imported",0.02180514587665489,2,True
+poor,North Central,1,Grains (other),0.110728756698656,1,True
+poor,North Central,2,Baked food,0.03163445583123872,2,True
+poor,North Central,3,Starchy foods,0.1658131603510479,7,True
+poor,North Central,4,Pulses,0.07371943675526595,2,True
+poor,North Central,5,Oils,0.06314811747256582,3,True
+poor,North Central,6,Fruits,0.04645884322402968,0,False
+poor,North Central,7,Vegetables,0.10031895492637694,2,True
+poor,North Central,8,Poultry and eggs,0.037684402595313055,4,True
+poor,North Central,9,Meat,0.05316695520270363,2,True
+poor,North Central,10,Fish,0.03208858151350367,10,True
+poor,North Central,11,Dairy,0.015261569636050343,2,True
+poor,North Central,12,Sugar,0.01537681244029026,0,False
+poor,North Central,13,Other food,0.039787283223372875,0,False
+poor,North Central,14,Non-alcoholic drinks,0.012204181992782483,0,False
+poor,North Central,15,Alcohol,0.006254792209370127,0,False
+poor,North Central,16,"Rice, local",0.11028237353051673,3,True
+poor,North Central,17,Maize,0.07348662775029519,2,True
+poor,North Central,18,Coffee and tea,0.006455558741330401,0,False
+poor,North Central,19,"Rice, imported",0.006129135905290328,2,True
+poor,North East,1,Grains (other),0.14903026906564706,1,True
+poor,North East,2,Baked food,0.035811562878008595,2,True
+poor,North East,3,Starchy foods,0.05341246315902567,7,True
+poor,North East,4,Pulses,0.08369532729813414,2,True
+poor,North East,5,Oils,0.07291977098963073,3,True
+poor,North East,6,Fruits,0.032307514191285816,0,False
+poor,North East,7,Vegetables,0.10940105833067791,2,True
+poor,North East,8,Poultry and eggs,0.03155524611225753,4,True
+poor,North East,9,Meat,0.0436821039730154,2,True
+poor,North East,10,Fish,0.02213840898706954,10,True
+poor,North East,11,Dairy,0.022303084570507288,2,True
+poor,North East,12,Sugar,0.027379550988923175,0,False
+poor,North East,13,Other food,0.03295817574049601,0,False
+poor,North East,14,Non-alcoholic drinks,0.01043387011220424,0,False
+poor,North East,15,Alcohol,0.0053979815880181685,0,False
+poor,North East,16,"Rice, local",0.13635079007577613,3,True
+poor,North East,17,Maize,0.1154636666280963,2,True
+poor,North East,18,Coffee and tea,0.005649005384652143,0,False
+poor,North East,19,"Rice, imported",0.010110149926574215,2,True
+poor,North West,1,Grains (other),0.22830124397607357,1,True
+poor,North West,2,Baked food,0.02474733844628857,2,True
+poor,North West,3,Starchy foods,0.04388639447541648,7,True
+poor,North West,4,Pulses,0.06088320742975067,2,True
+poor,North West,5,Oils,0.08185584933810532,3,True
+poor,North West,6,Fruits,0.02945587134401926,0,False
+poor,North West,7,Vegetables,0.11411139346241582,2,True
+poor,North West,8,Poultry and eggs,0.029787973773431,4,True
+poor,North West,9,Meat,0.04953559954998561,2,True
+poor,North West,10,Fish,0.017734730029816934,10,True
+poor,North West,11,Dairy,0.026683691389022397,2,True
+poor,North West,12,Sugar,0.01988488370911374,0,False
+poor,North West,13,Other food,0.03263244063987369,0,False
+poor,North West,14,Non-alcoholic drinks,0.006586053509804801,0,False
+poor,North West,15,Alcohol,0.00042516046372548916,0,False
+poor,North West,16,"Rice, local",0.1369112946776173,3,True
+poor,North West,17,Maize,0.07593273462457166,2,True
+poor,North West,18,Coffee and tea,0.0029677240914784977,0,False
+poor,North West,19,"Rice, imported",0.017676415069489238,2,True
+poor,South East,1,Grains (other),0.03414017453052713,1,True
+poor,South East,2,Baked food,0.03992956965647505,2,True
+poor,South East,3,Starchy foods,0.2292074084714398,7,True
+poor,South East,4,Pulses,0.0738481260797707,2,True
+poor,South East,5,Oils,0.05320452177413853,3,True
+poor,South East,6,Fruits,0.06086757519225986,0,False
+poor,South East,7,Vegetables,0.11706979330292792,2,True
+poor,South East,8,Poultry and eggs,0.017072952943770897,4,True
+poor,South East,9,Meat,0.04008210003885291,2,True
+poor,South East,10,Fish,0.08223067069501934,10,True
+poor,South East,11,Dairy,0.01768971652504861,2,True
+poor,South East,12,Sugar,0.005600370197196648,0,False
+poor,South East,13,Other food,0.06632932559293468,0,False
+poor,South East,14,Non-alcoholic drinks,0.015415886459831267,0,False
+poor,South East,15,Alcohol,0.006291222957084815,0,False
+poor,South East,16,"Rice, local",0.08716218451492813,3,True
+poor,South East,17,Maize,0.014704574006507045,2,True
+poor,South East,18,Coffee and tea,0.01444747818921292,0,False
+poor,South East,19,"Rice, imported",0.024706348872073864,2,True
+poor,South South,1,Grains (other),0.0055165935572311885,1,True
+poor,South South,2,Baked food,0.04288627820890572,2,True
+poor,South South,3,Starchy foods,0.2659030281037937,7,True
+poor,South South,4,Pulses,0.07632167119121851,2,True
+poor,South South,5,Oils,0.045115847457303446,3,True
+poor,South South,6,Fruits,0.053255315227452124,0,False
+poor,South South,7,Vegetables,0.08948562650444199,2,True
+poor,South South,8,Poultry and eggs,0.014650146294418452,4,True
+poor,South South,9,Meat,0.0568697417516684,2,True
+poor,South South,10,Fish,0.11805182589987051,10,True
+poor,South South,11,Dairy,0.015253194725789837,2,True
+poor,South South,12,Sugar,0.0031946252755996447,0,False
+poor,South South,13,Other food,0.05684445875881818,0,False
+poor,South South,14,Non-alcoholic drinks,0.018937650307745597,0,False
+poor,South South,15,Alcohol,0.011773094823334655,0,False
+poor,South South,16,"Rice, local",0.055492966537015784,3,True
+poor,South South,17,Maize,0.0071080372156323785,2,True
+poor,South South,18,Coffee and tea,0.01320101206493642,0,False
+poor,South South,19,"Rice, imported",0.05013888609482337,2,True
+poor,South West,1,Grains (other),0.0649924759408228,1,True
+poor,South West,2,Baked food,0.048679876628506764,2,True
+poor,South West,3,Starchy foods,0.18035479236358953,7,True
+poor,South West,4,Pulses,0.06684785937832911,2,True
+poor,South West,5,Oils,0.06514987290519805,3,True
+poor,South West,6,Fruits,0.043836012878453026,0,False
+poor,South West,7,Vegetables,0.11377319867380205,2,True
+poor,South West,8,Poultry and eggs,0.019461745063464212,4,True
+poor,South West,9,Meat,0.06309152145569615,2,True
+poor,South West,10,Fish,0.07702817295698595,10,True
+poor,South West,11,Dairy,0.012291195219624304,2,True
+poor,South West,12,Sugar,0.006805236474297268,0,False
+poor,South West,13,Other food,0.030076586614537004,0,False
+poor,South West,14,Non-alcoholic drinks,0.016746320235160327,0,False
+poor,South West,15,Alcohol,0.008083163995527994,0,False
+poor,South West,16,"Rice, local",0.043524477717694875,3,True
+poor,South West,17,Maize,0.03738192650035992,2,True
+poor,South West,18,Coffee and tea,0.00936695669762404,0,False
+poor,South West,19,"Rice, imported",0.09250860830032653,2,True
+all,National,1,Grains (other),0.07096204145873701,1,True
+all,National,2,Baked food,0.052960019976769086,2,True
+all,National,3,Starchy foods,0.1380575898153907,7,True
+all,National,4,Pulses,0.0660693634160255,2,True
+all,National,5,Oils,0.054574091146507554,3,True
+all,National,6,Fruits,0.05548029808879166,0,False
+all,National,7,Vegetables,0.09690919143979282,2,True
+all,National,8,Poultry and eggs,0.04820121857178446,4,True
+all,National,9,Meat,0.065425644576362,2,True
+all,National,10,Fish,0.07290836655218855,10,True
+all,National,11,Dairy,0.026561653854559306,2,True
+all,National,12,Sugar,0.011578411292060036,0,False
+all,National,13,Other food,0.03882281532566421,0,False
+all,National,14,Non-alcoholic drinks,0.030407312348098212,0,False
+all,National,15,Alcohol,0.00819077822810864,0,False
+all,National,16,"Rice, local",0.06319402517139852,3,True
+all,National,17,Maize,0.0374070455311963,2,True
+all,National,18,Coffee and tea,0.01629156466962402,0,False
+all,National,19,"Rice, imported",0.04599856853694161,2,True
+all,North Central,1,Grains (other),0.08611490570740755,1,True
+all,North Central,2,Baked food,0.04167690637632029,2,True
+all,North Central,3,Starchy foods,0.1804955392009774,7,True
+all,North Central,4,Pulses,0.06756630425589576,2,True
+all,North Central,5,Oils,0.05313368486562142,3,True
+all,North Central,6,Fruits,0.05487605870951105,0,False
+all,North Central,7,Vegetables,0.09309091059340337,2,True
+all,North Central,8,Poultry and eggs,0.05448673380216979,4,True
+all,North Central,9,Meat,0.05945392308526444,2,True
+all,North Central,10,Fish,0.04493622864853337,10,True
+all,North Central,11,Dairy,0.018858974494240222,2,True
+all,North Central,12,Sugar,0.01282125829431928,0,False
+all,North Central,13,Other food,0.046560917896537525,0,False
+all,North Central,14,Non-alcoholic drinks,0.020409989314838353,0,False
+all,North Central,15,Alcohol,0.006190372963304786,0,False
+all,North Central,16,"Rice, local",0.08167185043978337,3,True
+all,North Central,17,Maize,0.046965693706141,2,True
+all,North Central,18,Coffee and tea,0.011791596384250869,0,False
+all,North Central,19,"Rice, imported",0.01889815126148031,2,True
+all,North East,1,Grains (other),0.12432476152009078,1,True
+all,North East,2,Baked food,0.0420809182207113,2,True
+all,North East,3,Starchy foods,0.059403261031588654,7,True
+all,North East,4,Pulses,0.08533865912504411,2,True
+all,North East,5,Oils,0.06879249952502361,3,True
+all,North East,6,Fruits,0.042466087960075886,0,False
+all,North East,7,Vegetables,0.1019306787487452,2,True
+all,North East,8,Poultry and eggs,0.042059787622271215,4,True
+all,North East,9,Meat,0.05139285207729299,2,True
+all,North East,10,Fish,0.03026390428346704,10,True
+all,North East,11,Dairy,0.02585450742556905,2,True
+all,North East,12,Sugar,0.026936832133462197,0,False
+all,North East,13,Other food,0.030277103679788624,0,False
+all,North East,14,Non-alcoholic drinks,0.01879133062874973,0,False
+all,North East,15,Alcohol,0.004697754691311585,0,False
+all,North East,16,"Rice, local",0.12848174498823,3,True
+all,North East,17,Maize,0.09278680042992281,2,True
+all,North East,18,Coffee and tea,0.009487256872360593,0,False
+all,North East,19,"Rice, imported",0.014633259036294565,2,True
+all,North West,1,Grains (other),0.15539607741510716,1,True
+all,North West,2,Baked food,0.04437799518118835,2,True
+all,North West,3,Starchy foods,0.05968946027455981,7,True
+all,North West,4,Pulses,0.05799307363605877,2,True
+all,North West,5,Oils,0.0743923339060147,3,True
+all,North West,6,Fruits,0.04026286965150403,0,False
+all,North West,7,Vegetables,0.1040824020001861,2,True
+all,North West,8,Poultry and eggs,0.04927191609880765,4,True
+all,North West,9,Meat,0.0591526389739864,2,True
+all,North West,10,Fish,0.024170288943773106,10,True
+all,North West,11,Dairy,0.034038158357194044,2,True
+all,North West,12,Sugar,0.01983682538326417,0,False
+all,North West,13,Other food,0.02995098993761874,0,False
+all,North West,14,Non-alcoholic drinks,0.015429778560669783,0,False
+all,North West,15,Alcohol,0.0006979298096895277,0,False
+all,North West,16,"Rice, local",0.11576815023253505,3,True
+all,North West,17,Maize,0.0655797795422965,2,True
+all,North West,18,Coffee and tea,0.011578640032336694,0,False
+all,North West,19,"Rice, imported",0.03833069206320934,2,True
+all,South East,1,Grains (other),0.015278439322942998,1,True
+all,South East,2,Baked food,0.0529069829265303,2,True
+all,South East,3,Starchy foods,0.2008449983433394,7,True
+all,South East,4,Pulses,0.0668053276899026,2,True
+all,South East,5,Oils,0.04248607259024392,3,True
+all,South East,6,Fruits,0.07241429455803025,0,False
+all,South East,7,Vegetables,0.10569128249575784,2,True
+all,South East,8,Poultry and eggs,0.036601919472198464,4,True
+all,South East,9,Meat,0.061667826368450536,2,True
+all,South East,10,Fish,0.09031917703292737,10,True
+all,South East,11,Dairy,0.027013895535566178,2,True
+all,South East,12,Sugar,0.005508143684581436,0,False
+all,South East,13,Other food,0.05440200421712803,0,False
+all,South East,14,Non-alcoholic drinks,0.028789840050672963,0,False
+all,South East,15,Alcohol,0.01052926050864879,0,False
+all,South East,16,"Rice, local",0.05595368805919957,3,True
+all,South East,17,Maize,0.012064024787590255,2,True
+all,South East,18,Coffee and tea,0.020993600855756567,0,False
+all,South East,19,"Rice, imported",0.039729221500532666,2,True
+all,South South,1,Grains (other),0.00587011539537764,1,True
+all,South South,2,Baked food,0.05542258946025463,2,True
+all,South South,3,Starchy foods,0.18457554876244905,7,True
+all,South South,4,Pulses,0.07280662679288741,2,True
+all,South South,5,Oils,0.03913509355630393,3,True
+all,South South,6,Fruits,0.06485930126273017,0,False
+all,South South,7,Vegetables,0.08214274374209851,2,True
+all,South South,8,Poultry and eggs,0.04172518742710916,4,True
+all,South South,9,Meat,0.0773205104614376,2,True
+all,South South,10,Fish,0.12863383970078893,10,True
+all,South South,11,Dairy,0.024662300101228277,2,True
+all,South South,12,Sugar,0.004368151675956704,0,False
+all,South South,13,Other food,0.048296096614697144,0,False
+all,South South,14,Non-alcoholic drinks,0.0383809153135249,0,False
+all,South South,15,Alcohol,0.014836109470027323,0,False
+all,South South,16,"Rice, local",0.036192225203759386,3,True
+all,South South,17,Maize,0.008396834488390278,2,True
+all,South South,18,Coffee and tea,0.020121590044258,0,False
+all,South South,19,"Rice, imported",0.05225422052672099,2,True
+all,South West,1,Grains (other),0.05878320650030889,1,True
+all,South West,2,Baked food,0.06846126294218846,2,True
+all,South West,3,Starchy foods,0.1295592225429937,7,True
+all,South West,4,Pulses,0.05898328524763156,2,True
+all,South West,5,Oils,0.05399753035901203,3,True
+all,South West,6,Fruits,0.05614717067810029,0,False
+all,South West,7,Vegetables,0.10031019259735084,2,True
+all,South West,8,Poultry and eggs,0.05642587767817603,4,True
+all,South West,9,Meat,0.07058332042042958,2,True
+all,South West,10,Fish,0.08782771740618801,10,True
+all,South West,11,Dairy,0.027215360023417342,2,True
+all,South West,12,Sugar,0.008165701512763263,0,False
+all,South West,13,Other food,0.02826959863563254,0,False
+all,South West,14,Non-alcoholic drinks,0.046451144841362035,0,False
+all,South West,15,Alcohol,0.009783657129722543,0,False
+all,South West,16,"Rice, local",0.01460783640516934,3,True
+all,South West,17,Maize,0.027327262256317215,2,True
+all,South West,18,Coffee and tea,0.019646597045813233,0,False
+all,South West,19,"Rice, imported",0.07745405577742322,2,True
+bottom40,National,1,Grains (other),0.1420960250848215,1,True
+bottom40,National,2,Baked food,0.03237772625055418,2,True
+bottom40,National,3,Starchy foods,0.11574599873161505,7,True
+bottom40,National,4,Pulses,0.07078995706479703,2,True
+bottom40,National,5,Oils,0.06932625748330792,3,True
+bottom40,National,6,Fruits,0.039510622552645626,0,False
+bottom40,National,7,Vegetables,0.10895727882902403,2,True
+bottom40,National,8,Poultry and eggs,0.028005286711187873,4,True
+bottom40,National,9,Meat,0.04898831148723656,2,True
+bottom40,National,10,Fish,0.040571352668059724,10,True
+bottom40,National,11,Dairy,0.020953509730174572,2,True
+bottom40,National,12,Sugar,0.01666116701202836,0,False
+bottom40,National,13,Other food,0.039937254592207226,0,False
+bottom40,National,14,Non-alcoholic drinks,0.010859245632433711,0,False
+bottom40,National,15,Alcohol,0.004541056855505383,0,False
+bottom40,National,16,"Rice, local",0.11434664320819488,3,True
+bottom40,National,17,Maize,0.06808949538625171,2,True
+bottom40,National,18,Coffee and tea,0.006614468053004755,0,False
+bottom40,National,19,"Rice, imported",0.02162834266694972,2,True
+bottom40,North Central,1,Grains (other),0.1114246028818201,1,True
+bottom40,North Central,2,Baked food,0.031250407410920104,2,True
+bottom40,North Central,3,Starchy foods,0.16494418453971935,7,True
+bottom40,North Central,4,Pulses,0.0739384971681739,2,True
+bottom40,North Central,5,Oils,0.06300519331215658,3,True
+bottom40,North Central,6,Fruits,0.04708193877791187,0,False
+bottom40,North Central,7,Vegetables,0.10060790474144224,2,True
+bottom40,North Central,8,Poultry and eggs,0.0378025191676623,4,True
+bottom40,North Central,9,Meat,0.05217762610831091,2,True
+bottom40,North Central,10,Fish,0.03151346002041357,10,True
+bottom40,North Central,11,Dairy,0.015376253096939532,2,True
+bottom40,North Central,12,Sugar,0.015474626223856352,0,False
+bottom40,North Central,13,Other food,0.04005556433224898,0,False
+bottom40,North Central,14,Non-alcoholic drinks,0.012269759824569992,0,False
+bottom40,North Central,15,Alcohol,0.006260065068405189,0,False
+bottom40,North Central,16,"Rice, local",0.11094890810612874,3,True
+bottom40,North Central,17,Maize,0.07392306715187624,2,True
+bottom40,North Central,18,Coffee and tea,0.006490337678047746,0,False
+bottom40,North Central,19,"Rice, imported",0.005455084389396375,2,True
+bottom40,North East,1,Grains (other),0.14911615174294587,1,True
+bottom40,North East,2,Baked food,0.03531903260463911,2,True
+bottom40,North East,3,Starchy foods,0.053823254910912506,7,True
+bottom40,North East,4,Pulses,0.08370935133125802,2,True
+bottom40,North East,5,Oils,0.0729134534844881,3,True
+bottom40,North East,6,Fruits,0.03212630942971329,0,False
+bottom40,North East,7,Vegetables,0.10917159135683624,2,True
+bottom40,North East,8,Poultry and eggs,0.03173209673160242,4,True
+bottom40,North East,9,Meat,0.04318674790726032,2,True
+bottom40,North East,10,Fish,0.022427807517814435,10,True
+bottom40,North East,11,Dairy,0.022347501861304468,2,True
+bottom40,North East,12,Sugar,0.027243964513691894,0,False
+bottom40,North East,13,Other food,0.03290890929505416,0,False
+bottom40,North East,14,Non-alcoholic drinks,0.010195223564762589,0,False
+bottom40,North East,15,Alcohol,0.005435019701503696,0,False
+bottom40,North East,16,"Rice, local",0.13648652688097604,3,True
+bottom40,North East,17,Maize,0.115899256197163,2,True
+bottom40,North East,18,Coffee and tea,0.005643024848676337,0,False
+bottom40,North East,19,"Rice, imported",0.010314776119397453,2,True
+bottom40,North West,1,Grains (other),0.2292303894934851,1,True
+bottom40,North West,2,Baked food,0.024336382373499017,2,True
+bottom40,North West,3,Starchy foods,0.04381457218982623,7,True
+bottom40,North West,4,Pulses,0.06100220661677724,2,True
+bottom40,North West,5,Oils,0.08172477932365727,3,True
+bottom40,North West,6,Fruits,0.02949419415228682,0,False
+bottom40,North West,7,Vegetables,0.11425489424824067,2,True
+bottom40,North West,8,Poultry and eggs,0.02924778744855512,4,True
+bottom40,North West,9,Meat,0.04958673273087414,2,True
+bottom40,North West,10,Fish,0.017625708831605705,10,True
+bottom40,North West,11,Dairy,0.02660466241070905,2,True
+bottom40,North West,12,Sugar,0.019913104946351765,0,False
+bottom40,North West,13,Other food,0.032545744628427666,0,False
+bottom40,North West,14,Non-alcoholic drinks,0.00649075256775141,0,False
+bottom40,North West,15,Alcohol,0.00043008674604628144,0,False
+bottom40,North West,16,"Rice, local",0.13703571632135872,3,True
+bottom40,North West,17,Maize,0.07651332507552684,2,True
+bottom40,North West,18,Coffee and tea,0.0028844788159703805,0,False
+bottom40,North West,19,"Rice, imported",0.01726448107905064,2,True
+bottom40,South East,1,Grains (other),0.03455729529556631,1,True
+bottom40,South East,2,Baked food,0.03999534818025684,2,True
+bottom40,South East,3,Starchy foods,0.22957171044492947,7,True
+bottom40,South East,4,Pulses,0.07370211084484667,2,True
+bottom40,South East,5,Oils,0.053306321652343475,3,True
+bottom40,South East,6,Fruits,0.060478100836782525,0,False
+bottom40,South East,7,Vegetables,0.11709731238083129,2,True
+bottom40,South East,8,Poultry and eggs,0.01731696094975293,4,True
+bottom40,South East,9,Meat,0.039364531024535465,2,True
+bottom40,South East,10,Fish,0.08213429360784587,10,True
+bottom40,South East,11,Dairy,0.017521532849769535,2,True
+bottom40,South East,12,Sugar,0.005639591799816923,0,False
+bottom40,South East,13,Other food,0.06643063050784657,0,False
+bottom40,South East,14,Non-alcoholic drinks,0.015352335496700292,0,False
+bottom40,South East,15,Alcohol,0.006404922197765563,0,False
+bottom40,South East,16,"Rice, local",0.08738044954050524,3,True
+bottom40,South East,17,Maize,0.0148921435639242,2,True
+bottom40,South East,18,Coffee and tea,0.014346005010898298,0,False
+bottom40,South East,19,"Rice, imported",0.024508403815082555,2,True
+bottom40,South South,1,Grains (other),0.005304563706436216,1,True
+bottom40,South South,2,Baked food,0.043150987733563406,2,True
+bottom40,South South,3,Starchy foods,0.2648743255110902,7,True
+bottom40,South South,4,Pulses,0.07703108872368764,2,True
+bottom40,South South,5,Oils,0.045344535622040265,3,True
+bottom40,South South,6,Fruits,0.05243108717117367,0,False
+bottom40,South South,7,Vegetables,0.08977271928014065,2,True
+bottom40,South South,8,Poultry and eggs,0.01469804349956573,4,True
+bottom40,South South,9,Meat,0.056316724392102634,2,True
+bottom40,South South,10,Fish,0.11851297271748275,10,True
+bottom40,South South,11,Dairy,0.01492615589078225,2,True
+bottom40,South South,12,Sugar,0.0032399401699836176,0,False
+bottom40,South South,13,Other food,0.05745624212347116,0,False
+bottom40,South South,14,Non-alcoholic drinks,0.018657125916138963,0,False
+bottom40,South South,15,Alcohol,0.011927720992807898,0,False
+bottom40,South South,16,"Rice, local",0.05578216816205812,3,True
+bottom40,South South,17,Maize,0.006813263430416932,2,True
+bottom40,South South,18,Coffee and tea,0.01303368400827744,0,False
+bottom40,South South,19,"Rice, imported",0.050726650948780344,2,True
+bottom40,South West,1,Grains (other),0.0657668005734312,1,True
+bottom40,South West,2,Baked food,0.04844272002978685,2,True
+bottom40,South West,3,Starchy foods,0.1800331524324568,7,True
+bottom40,South West,4,Pulses,0.06707555660736993,2,True
+bottom40,South West,5,Oils,0.06531813726215357,3,True
+bottom40,South West,6,Fruits,0.0440038359090136,0,False
+bottom40,South West,7,Vegetables,0.11435772245165207,2,True
+bottom40,South West,8,Poultry and eggs,0.018130313847977923,4,True
+bottom40,South West,9,Meat,0.06261261493814713,2,True
+bottom40,South West,10,Fish,0.07687009784567549,10,True
+bottom40,South West,11,Dairy,0.012437633327805005,2,True
+bottom40,South West,12,Sugar,0.006657545307545562,0,False
+bottom40,South West,13,Other food,0.030086574155361093,0,False
+bottom40,South West,14,Non-alcoholic drinks,0.016563403485668853,0,False
+bottom40,South West,15,Alcohol,0.008179467342962389,0,False
+bottom40,South West,16,"Rice, local",0.04351365992086379,3,True
+bottom40,South West,17,Maize,0.037827297231118676,2,True
+bottom40,South West,18,Coffee and tea,0.009478555235740215,0,False
+bottom40,South West,19,"Rice, imported",0.09264491209526983,2,True

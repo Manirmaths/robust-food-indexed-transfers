@@ -1,0 +1,65 @@
+delay,design,K,split,G_mean,E_mean,E_min,states
+0,decision,0,test,0.7214409480695984,0.912948224562409,0.8731535183454037,
+0,accuracy,0,test,0.7214409480695984,0.912948224562409,0.8731535183454037,
+0,decision,1,test,0.7358093774576554,0.9110735534038834,0.8723157051139105,Kano
+0,accuracy,1,test,0.746360528639072,0.925968079877806,0.8919816958095943,FCT Abuja
+0,decision,2,test,0.7463166302749633,0.9098977888116768,0.8712931944007598,Kano; Sokoto
+0,accuracy,2,test,0.7489750439182585,0.9285115864727184,0.8921318198660659,FCT Abuja; Benue
+0,decision,3,test,0.7721904204029116,0.9231946301276271,0.8904928296561814,Kano; Sokoto; FCT Abuja
+0,accuracy,3,test,0.7595053061458443,0.9284768457922972,0.8905586838701104,FCT Abuja; Benue; Jigawa
+0,decision,4,test,0.7830334892567627,0.92286715239781,0.8888727004731601,Kano; Sokoto; FCT Abuja; Jigawa
+0,accuracy,4,test,0.7703935660887975,0.9271731677714072,0.889672076902446,FCT Abuja; Benue; Jigawa; Sokoto
+0,decision,5,test,0.7916527235188444,0.922540697302976,0.8893948789131784,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna
+0,accuracy,5,test,0.7769102483976322,0.927014805081788,0.8894927879532661,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom
+0,decision,6,test,0.8077759502019701,0.922808612237374,0.8938400646930825,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina
+0,accuracy,6,test,0.7825046890916761,0.9259837453127704,0.889151837522259,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River
+0,decision,7,test,0.8181805595302323,0.921195312429892,0.8954830053139831,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara
+0,accuracy,7,test,0.7980901549941517,0.9242254492806348,0.8886234955541454,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano
+0,decision,8,test,0.8248548208881258,0.9211808503222736,0.893427778744915,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi
+0,accuracy,8,test,0.8032755654962944,0.9249206200810144,0.889803645937104,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau
+0,decision,9,test,0.8301698009269405,0.9212005004616384,0.8933911436784339,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers
+0,accuracy,9,test,0.8087871695021106,0.925181065521352,0.8921613495265178,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa
+0,decision,10,test,0.8374487066145252,0.9220767645690396,0.8930009006092813,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo
+0,accuracy,10,test,0.8252604566687545,0.9262073459391744,0.9034787009754314,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina
+0,decision,11,test,0.8432108777432319,0.9220661229546276,0.8924822104902624,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo; Adamawa
+0,accuracy,11,test,0.8332523379935093,0.9280482690169758,0.9081801142729964,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina; Abia
+0,decision,12,test,0.8486602176213698,0.9228819355888016,0.8906698778948277,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo; Adamawa; Plateau
+0,accuracy,12,test,0.8439567218750667,0.9271781717150136,0.9069419021826955,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina; Abia; Zamfara
+0,decision,13,test,0.8558768144846858,0.9239378272545123,0.8896642939140469,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo; Adamawa; Plateau; Akwa Ibom
+0,accuracy,13,test,0.8532856206920884,0.9273702645460512,0.9047482995289536,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina; Abia; Zamfara; Kaduna
+0,decision,14,test,0.8660822372376796,0.9240099822995328,0.8911082727905997,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo; Adamawa; Plateau; Akwa Ibom; Enugu
+0,accuracy,14,test,0.8602428764134122,0.9280952993550546,0.9027387361158494,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina; Abia; Zamfara; Kaduna; Kebbi
+0,decision,15,test,0.8745025129029744,0.926221814270752,0.8899610748796403,Kano; Sokoto; FCT Abuja; Jigawa; Kaduna; Katsina; Zamfara; Kebbi; Rivers; Imo; Adamawa; Plateau; Akwa Ibom; Enugu; Abia
+0,accuracy,15,test,0.8637293465352373,0.9282328111121776,0.903494842515954,FCT Abuja; Benue; Jigawa; Sokoto; Akwa Ibom; Cross River; Kano; Plateau; Adamawa; Katsina; Abia; Zamfara; Kaduna; Kebbi; Ekiti
+1,decision,0,test,0.7214409480695984,0.912948224562409,0.8731535183454037,
+1,decision,1,test,0.7388485364490358,0.9258147453041936,0.8903897638892097,FCT Abuja
+1,decision,2,test,0.7361010690434827,0.9262255704367228,0.8906003947415241,FCT Abuja; Rivers
+1,decision,3,test,0.7356657827458969,0.9268611820188616,0.8897476610308884,FCT Abuja; Rivers; Plateau
+1,decision,4,test,0.7305039231747015,0.9263131336848932,0.88854628281693,FCT Abuja; Rivers; Plateau; Kebbi
+1,decision,5,test,0.7312313970236144,0.926215898325386,0.8892047246869146,FCT Abuja; Rivers; Plateau; Kebbi; Imo
+1,decision,6,test,0.728478874963288,0.9268767633290064,0.8899304081586119,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna
+1,decision,7,test,0.7256957358015145,0.9273989402427052,0.8899128932923942,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa
+1,decision,8,test,0.7264016833674292,0.9272558903892598,0.8898766155655677,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti
+1,decision,9,test,0.7257063083998119,0.928521460859571,0.8920342754143535,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina
+1,decision,10,test,0.7246302343251133,0.9285357249492224,0.8917360723949803,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno
+1,decision,11,test,0.7212925603690638,0.9281713399918042,0.8929169816706126,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno; Sokoto
+1,decision,12,test,0.7215213723454785,0.9273807909900688,0.892943871556119,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno; Sokoto; Zamfara
+1,decision,13,test,0.7214533010236389,0.9270103307837014,0.893582148052783,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno; Sokoto; Zamfara; Yobe
+1,decision,14,test,0.7243570582543835,0.9279510836410968,0.8942986471714306,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno; Sokoto; Zamfara; Yobe; Abia
+1,decision,15,test,0.7268059308478274,0.9272431142111964,0.8940465498482038,FCT Abuja; Rivers; Plateau; Kebbi; Imo; Kaduna; Adamawa; Ekiti; Katsina; Borno; Sokoto; Zamfara; Yobe; Abia; Bauchi
+3,decision,0,test,0.7214409480695984,0.912948224562409,0.8731535183454037,
+3,decision,1,test,0.725578787934199,0.9124066978620136,0.873208656949514,Sokoto
+3,decision,2,test,0.741459879507474,0.9248014558262624,0.8900919731874367,Sokoto; FCT Abuja
+3,decision,3,test,0.7403452654278014,0.9253978071651252,0.8907500413009998,Sokoto; FCT Abuja; Kaduna
+3,decision,4,test,0.7383851576523702,0.9253968073243356,0.8895789681142586,Sokoto; FCT Abuja; Kaduna; Kebbi
+3,decision,5,test,0.7367190029455755,0.9258381613471957,0.8896695801332405,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers
+3,decision,6,test,0.7371894977140745,0.9262215731743004,0.8897276590880575,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau
+3,decision,7,test,0.7419496149029683,0.9255528166545568,0.8893521161151214,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara
+3,decision,8,test,0.7431147879219415,0.9256298043827004,0.8901504813625832,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa
+3,decision,9,test,0.7446065491782435,0.92554582425314,0.8910125413437058,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi
+3,decision,10,test,0.743781423433946,0.9254596653606022,0.8915955895465483,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano
+3,decision,11,test,0.7428474088810207,0.9254624331292508,0.8912111504817589,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano; Borno
+3,decision,12,test,0.7462497914232136,0.9260022013953654,0.8910931463761168,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano; Borno; Katsina
+3,decision,13,test,0.7466002489093222,0.9255663116367588,0.8917507817403574,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano; Borno; Katsina; Yobe
+3,decision,14,test,0.7480247508345028,0.925314487191253,0.8915666191572842,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano; Borno; Katsina; Yobe; Ekiti
+3,decision,15,test,0.7515878162807914,0.9250692445801808,0.8917730456882118,Sokoto; FCT Abuja; Kaduna; Kebbi; Rivers; Plateau; Zamfara; Adamawa; Bauchi; Kano; Borno; Katsina; Yobe; Ekiti; Enugu
